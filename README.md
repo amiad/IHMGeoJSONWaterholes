@@ -1,7 +1,7 @@
 # IHMGeoJSONWaterholes
 GeoJSON for an external layer for [IHM](israelhiking.osm.org.il/) site.
 The source is [the floods and waterholes list](https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS_Tl3rSas/edit?usp=sharing).
-The conversion was performed using [Convert CSV to GeoJSON](https://www.convertcsv.com/csv-to-geojson.htm).
+The conversion was performed using [csv2geojson](http://mapbox.github.io/csv2geojson/).
 
 
 Requirements:
