@@ -21,7 +21,7 @@
       "metadata": {"IHM:overlay": true},
       "source": "floodpoints",
       "layout": {
-        "text-field": ["get", "text"],
+        "text-field": ["get", "Title"],
         "symbol-placement": "point",
         "text-font": ["Open Sans Cond Bold"],
         "text-size": 18,
