@@ -100,6 +100,31 @@
           31.287265
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "גב החלון",
+        "Description": "מלא ונקי",
+        "LastModified": "7/12/20",
+        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "OSMId": "node_6975259486",
+        "Id": "508055214",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.384513,
+          31.471537
+        ]
+      }
     }
   ]
 }
