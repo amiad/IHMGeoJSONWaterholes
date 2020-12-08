@@ -9,7 +9,7 @@
   "sources": {
     "fludpoints": {
       "type": "geojson",
-      "data": "https://raw.githack.com/HarelM/IHMMapboxMapExample/main/source.geojson"
+      "data": "https://raw.githubusercontent.com/amiad/IHMGeoJSONWaterholes/main/source.geojson"
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
