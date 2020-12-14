@@ -54,10 +54,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "",
-        "Description": "",
-        "LastModified": "",
-        "Source": "",
+        "Title": "גב זוהר",
+        "Description": "מלא עד המותניים אבל מלוכלך",
+        "LastModified": "14/11/2020",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4102816103066966/?__cft__[0]=AZU1aVsvc43I5BBdYd1y_pakfgwnFEwcOH15i-pAJDppw9FAB8EheI8stLJKbVQTVRxi5Z7GKVIpr71blOqkIwzIWXWCXUNvJ3ffJbDdukvoOS2B4L8cTq4Ff4rivoTXMW-5y_VHFzucZ8wieJVsGjhANnPfZUADNHAgzF9cGnXArQTdaFWfM8nhf6ekXOq-ze4&__tn__=%2CO%2CP-R",
         "OSMId": "node_5427499921",
         "Id": "5427499921",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -80,9 +80,9 @@
       "type": "Feature",
       "properties": {
         "Title": "גבי רחף",
-        "Description": "הגבים מלאים. חלקם נקיים וחלקם לא.",
-        "LastModified": "23/11/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4128422347173008/",
+        "Description": "גבים מלאים אבל מלוכלכים",
+        "LastModified": "02/11/2020",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4066756183339625/",
         "OSMId": "node_6975259485",
         "Id": "6975259485",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -123,6 +123,31 @@
         "coordinates": [
           35.384513,
           31.471537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "גב זוהר",
+        "Description": "מלא עד המותניים אבל מלוכלך",
+        "LastModified": "14/11/2020",
+        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "OSMId": "node_5427499921",
+        "Id": "5427499921",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345829,
+          31.151249
         ]
       }
     }
