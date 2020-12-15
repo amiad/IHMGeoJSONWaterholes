@@ -27,7 +27,7 @@
         "text-size": 18,
         "text-letter-spacing": 0.3,
         "text-max-width": 5,
-        "text-offset": [0, 5]
+        "text-offset": [10, 20]
       },
       "paint": {
         "text-color": "red",
