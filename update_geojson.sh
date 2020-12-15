@@ -3,6 +3,7 @@ url="https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS
 csv='floods.csv'
 
 pushd $(dirname "$0") > /dev/null
+git checkout main
 git pull
 wget  $url -O $csv
 ./node_modules/csv2geojson/csv2geojson --lat Latitude --lon Longitude floods.csv > source.geojson
