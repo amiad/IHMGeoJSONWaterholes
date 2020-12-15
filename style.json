@@ -16,13 +16,13 @@
   "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
   "layers": [
     {
-      "id": "water-area-name",
+      "id": "water-area-status",
       "type": "symbol",
       "metadata": {"IHM:overlay": true},
       "source": "floodpoints",
       "layout": {
         "text-field": ["get", "Description"],
-        "symbol-placement": "point",
+        "symbol-placement": "line",
         "text-font": ["Open Sans Cond Bold"],
         "text-size": 18,
         "text-letter-spacing": 0.3,
