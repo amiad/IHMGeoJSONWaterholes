@@ -16,7 +16,7 @@
   "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
   "layers": [
     {
-      "id": "water-area-status",
+      "id": "water-area-name",
       "type": "symbol",
       "metadata": {"IHM:overlay": true},
       "source": "floodpoints",
