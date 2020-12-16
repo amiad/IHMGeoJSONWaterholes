@@ -26,7 +26,10 @@
           "concat",
           ["get", "Title"],
           ": ",
-          ["get", "Description"]
+          ["get", "Description"],
+          " (",
+          ["get", "LastModified"],
+          ")"
         ],
         "symbol-placement": "point",
         "text-font": ["Open Sans Cond Bold"],
