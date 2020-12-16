@@ -106,8 +106,8 @@
       "properties": {
         "Title": "גב החלון",
         "Description": "מלא ונקי",
-        "LastModified": "7/12/20",
-        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "LastModified": "10/12/20",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
         "OSMId": "node_6975259486",
         "Id": "508055214",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -132,7 +132,7 @@
         "Title": "גב זוהר",
         "Description": "מלא עד המותניים אבל מלוכלך",
         "LastModified": "14/11/2020",
-        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
         "OSMId": "node_5427499921",
         "Id": "5427499921",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -148,6 +148,31 @@
         "coordinates": [
           35.345829,
           31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "נחל דרגה",
+        "Description": "גבים ברובם נקיים",
+        "LastModified": "11/12/2020",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4180787491936493/",
+        "OSMId": "way_184298898",
+        "Id": "184298898",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.388201,
+          31.580357
         ]
       }
     }
