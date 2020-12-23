@@ -7,20 +7,22 @@
     "openmaptiles:version": "3.x"
   },
   "sources": {
-    "floodpoints": {
+    "waterholes": {
       "type": "geojson",
       "data": "https://raw.githubusercontent.com/amiad/IHMGeoJSONWaterholes/main/source.geojson"
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
+  "glyphs": "https://orangemug.github.io/font-glyphs/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
-      "id": "water-area-name",
+      "id": "waterhole-info",
       "type": "symbol",
       "metadata": {"IHM:overlay": true},
-      "source": "floodpoints",
+      "source": "waterholes",
+      "minzoom": 13,
       "layout": {
+<<<<<<< HEAD
         "text-field": ["get", "Description"],
         "symbol-placement": "line",
         "text-font": ["Open Sans Cond Bold"],
@@ -31,9 +33,29 @@
       },
       "paint": {
         "text-color": "red",
+=======
+        "text-field": [
+          "concat",
+          ["get", "Title"],
+          ": ",
+          ["get", "Description"],
+          " (",
+          ["get", "LastModified"],
+          ")"
+        ],
+        "symbol-placement": "point",
+        "text-font": ["Open Sans Cond Bold"],
+        "text-size": 18,
+        "text-letter-spacing": 0.2,
+        "text-anchor": "top"
+      },
+      "paint": {
+        "text-color": "#125595",
+>>>>>>> main
         "text-halo-color": "white",
         "text-halo-width": 1.5,
-        "text-halo-blur": 1
+        "text-halo-blur": 1,
+        "text-translate": [0, 6]
       }
     }
   ],

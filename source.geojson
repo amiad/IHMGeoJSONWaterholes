@@ -54,10 +54,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Title": "גבי צאלים עליון",
+        "Description": "גבים טובים ",
+        "LastModified": "28/11/2020",
+        "Source": "",
+        "OSMId": "node_4031035791",
+        "Id": "4031035791",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=21",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251049,
+          31.335936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Title": "גב זוהר",
         "Description": "מלא עד המותניים אבל מלוכלך",
         "LastModified": "14/11/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4102816103066966/?__cft__[0]=AZU1aVsvc43I5BBdYd1y_pakfgwnFEwcOH15i-pAJDppw9FAB8EheI8stLJKbVQTVRxi5Z7GKVIpr71blOqkIwzIWXWCXUNvJ3ffJbDdukvoOS2B4L8cTq4Ff4rivoTXMW-5y_VHFzucZ8wieJVsGjhANnPfZUADNHAgzF9cGnXArQTdaFWfM8nhf6ekXOq-ze4&__tn__=%2CO%2CP-R",
+        "Source": "",
         "OSMId": "node_5427499921",
         "Id": "5427499921",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -106,10 +131,10 @@
       "properties": {
         "Title": "גב החלון",
         "Description": "מלא ונקי",
-        "LastModified": "7/12/20",
-        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "LastModified": "10/12/20",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
         "OSMId": "node_6975259486",
-        "Id": "508055214",
+        "Id": "6975259486",
         "Website": "https://www.facebook.com/groups/myisrael100/",
         "ImageUrl": "",
         "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
@@ -132,7 +157,7 @@
         "Title": "גב זוהר",
         "Description": "מלא עד המותניים אבל מלוכלך",
         "LastModified": "14/11/2020",
-        "Source": "https://m.facebook.com/groups/myisrael100/permalink/4169314873083755/",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
         "OSMId": "node_5427499921",
         "Id": "5427499921",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -148,6 +173,81 @@
         "coordinates": [
           35.345829,
           31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "נחל דרגה",
+        "Description": "גבים ברובם נקיים",
+        "LastModified": "11/12/2020",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4180787491936493/",
+        "OSMId": "way_184298898",
+        "Id": "184298898",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.388201,
+          31.580357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "הקניון הלבן",
+        "Description": "חצי מלא",
+        "LastModified": "13/12/2020",
+        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4184755671539675/",
+        "OSMId": "node_6413905085",
+        "Id": "6413905085",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.731876,
+          30.208666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "גב צרור",
+        "Description": "מלא",
+        "LastModified": "16/11/2020",
+        "Source": "וואטסאפ",
+        "OSMId": "node_3879544350",
+        "Id": "3879544350",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.856724
         ]
       }
     }
