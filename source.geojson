@@ -205,7 +205,7 @@
       "type": "Feature",
       "properties": {
         "Title": "הקניון הלבן",
-        "Description": "מלא",
+        "Description": "חצי מלא",
         "LastModified": "13/12/2020",
         "Source": "https://www.facebook.com/groups/myisrael100/permalink/4184755671539675/",
         "OSMId": "node_6413905085",
@@ -223,6 +223,31 @@
         "coordinates": [
           34.731876,
           30.208666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "גב צרור",
+        "Description": "מלא",
+        "LastModified": "16/11/2020",
+        "Source": "וואטסאפ",
+        "OSMId": "node_3879544350",
+        "Id": "3879544350",
+        "Website": "https://www.facebook.com/groups/myisrael100/",
+        "ImageUrl": "",
+        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=24",
+        "Category": "Water",
+        "FileUrl": "",
+        "Icon": "icon-waterhole",
+        "IconColor": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.856724
         ]
       }
     }
