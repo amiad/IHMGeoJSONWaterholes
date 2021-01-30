@@ -54,9 +54,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "גבי צאלים עליון",
-        "Description": "גבים טובים ",
-        "LastModified": "28/11/2020",
+        "Title": "אוג",
+        "Description": "",
+        "LastModified": "",
         "Source": "",
         "OSMId": "node_4031035791",
         "Id": "4031035791",
@@ -105,7 +105,7 @@
       "type": "Feature",
       "properties": {
         "Title": "גבי רחף",
-        "Description": "גבים מלאים אבל מלוכלכים",
+        "Description": "גבים מלאים ",
         "LastModified": "02/11/2020",
         "Source": "https://www.facebook.com/groups/myisrael100/permalink/4066756183339625/",
         "OSMId": "node_6975259485",
