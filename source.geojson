@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "עין נמר",
-        "Description": "מלא ונקי בעומק כמטר",
-        "LastModified": "05/03/2021",
+        "Title": "#REF!",
+        "Description": "",
+        "LastModified": "",
         "Source": "",
         "OSMId": "node_3308311234",
         "Id": "3308311234",
@@ -29,9 +29,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "בריכת צפירה",
-        "Description": "מלאה ונקיה. צריך לעבור בגב עמוק כדי להגיע",
-        "LastModified": "05/03/2021",
+        "Title": "#REF!",
+        "Description": "",
+        "LastModified": "",
         "Source": "",
         "OSMId": "node_3450870593",
         "Id": "3450870593",
@@ -54,9 +54,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "גבי צאלים עליון",
-        "Description": "גבים מלאים ונקיים אבל לא עמוקים",
-        "LastModified": "05/03/2021",
+        "Title": "#REF!",
+        "Description": "",
+        "LastModified": "",
         "Source": "",
         "OSMId": "node_4031035791",
         "Id": "4031035791",
@@ -79,8 +79,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "גב זוהר",
-        "Description": "מלא עד המותניים",
+        "Title": "#REF!",
+        "Description": "",
         "LastModified": "",
         "Source": "",
         "OSMId": "node_5427499921",
@@ -105,9 +105,9 @@
       "type": "Feature",
       "properties": {
         "Title": "גבי רחף",
-        "Description": "גבים מלאים ",
-        "LastModified": "02/11/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4066756183339625/",
+        "Description": "",
+        "LastModified": "",
+        "Source": "",
         "OSMId": "node_6975259485",
         "Id": "6975259485",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -130,9 +130,9 @@
       "type": "Feature",
       "properties": {
         "Title": "גב החלון",
-        "Description": "מלא ונקי",
-        "LastModified": "10/12/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
+        "Description": "",
+        "LastModified": "",
+        "Source": "",
         "OSMId": "node_6975259486",
         "Id": "6975259486",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -155,9 +155,9 @@
       "type": "Feature",
       "properties": {
         "Title": "גב זוהר",
-        "Description": "מלא עד המותניים",
+        "Description": "",
         "LastModified": "",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4177681322247110/?__cft__[0]=AZVdQNavUqMxYr9g-34OxfJOyPyIQXytlDP1yd1PSLfTs0Fynhg7wQKeK9AUGsCSWWCu5KEHQHHgdmc70XMAVi3RiTH5HG-wZmaAgGPmnWNhCUbhiLH00R0XM8gXB6UCe2aDdyZw5KJxr8tGV4fd3eZc5wQq6L6Iq4SUFtPEm3szOnjb0WdoZVSEP2QHra7zDiU&__tn__=%2CO%2CP-R",
+        "Source": "",
         "OSMId": "node_5427499921",
         "Id": "5427499921",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -180,9 +180,9 @@
       "type": "Feature",
       "properties": {
         "Title": "נחל דרגה",
-        "Description": " עדיין יש כמה גבים מזוהמים (היתה שטיפה אבל לא מספיק משמעותית)",
-        "LastModified": "27/12/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4180787491936493/",
+        "Description": "",
+        "LastModified": "",
+        "Source": "",
         "OSMId": "way_184298898",
         "Id": "184298898",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -204,10 +204,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "הקניון הלבן",
-        "Description": "חצי מלא",
-        "LastModified": "13/12/2020",
-        "Source": "https://www.facebook.com/groups/myisrael100/permalink/4184755671539675/",
+        "Title": "#REF!",
+        "Description": "",
+        "LastModified": "",
+        "Source": "",
         "OSMId": "node_6413905085",
         "Id": "6413905085",
         "Website": "https://www.facebook.com/groups/myisrael100/",
@@ -229,10 +229,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "גב צרור",
-        "Description": "מלא, מים עכורים, זחלי יתושים רבים ותולעים לבנות לא מזוהות",
-        "LastModified": "07/02/2021",
-        "Source": "וואטסאפ",
+        "Title": "#REF!",
+        "Description": "מלא",
+        "LastModified": "20/11/2021",
+        "Source": "",
         "OSMId": "node_3879544350",
         "Id": "3879544350",
         "Website": "https://www.facebook.com/groups/myisrael100/",
