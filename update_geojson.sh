@@ -3,7 +3,7 @@ url="https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS
 csv='floods.csv'
 
 pushd $(dirname "$0") > /dev/null
-git checkout main
+#git checkout main
 git pull
 wget  $url -O $csv
 tail -n +4 $csv > $csv
