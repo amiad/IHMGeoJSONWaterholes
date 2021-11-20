@@ -24,11 +24,11 @@
       "layout": {
         "text-field": [
           "concat",
-          ["get", "Title"],
+          ["get", "שם הגב"],
           ": ",
-          ["get", "Description"],
+          ["get", "מצב הגב"],
           " (",
-          ["get", "LastModified"],
+          ["get", "תאריך עדכון גבים"],
           ")"
         ],
         "symbol-placement": "point",
