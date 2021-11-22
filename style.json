@@ -13,7 +13,7 @@
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
-  "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+  "glyphs": "https://israelhikingmap.osm.org.il/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "waterhole-info",
