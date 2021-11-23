@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Title": "גב חצרה",
-        "Description": "מלא",
-        "LastModified": "22/11/2021",
-        "Source": "https://www.facebook.com/groups/myisrael100/posts/5229550550393510/",
-        "OSMId": "node_5155099626",
-        "Id": "5155099626",
-        "Website": "",
-        "ImageUrl": "",
-        "SourceImageUrl": "https://avatars2.githubusercontent.com/u/402108?s=400&v=19",
-        "Category": "Water",
-        "FileUrl": "",
-        "Icon": "icon-waterhole",
-        "IconColor": "blue"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.933475,
-          35.242565
-        ]
-      }
-    }
-  ]
+  "features": []
 }
