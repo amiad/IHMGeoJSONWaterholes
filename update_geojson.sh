@@ -4,7 +4,7 @@ csv='floods.csv'
 head="stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latitude,Longitude,Id"
 
 pushd $(dirname "$0") > /dev/null
-#git checkout main
+git checkout main
 git pull
 wget $url -O $csv
 sed -i "1s/.*/$head/" $csv
