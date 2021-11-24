@@ -9,11 +9,11 @@
   "sources": {
     "waterholes": {
       "type": "geojson",
-      "data": "https://raw.githubusercontent.com/amiad/IHMGeoJSONWaterholes/main/source.geojson"
+      "data": "https://raw.githubusercontent.com/amiad/IHMGeoJSONWaterholes/simpling/source.geojson"
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
-  "glyphs": "https://orangemug.github.io/font-glyphs/glyphs/{fontstack}/{range}.pbf",
+  "glyphs": "https://israelhikingmap.osm.org.il/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "waterhole-info",
@@ -24,11 +24,11 @@
       "layout": {
         "text-field": [
           "concat",
-          ["get", "Title"],
+          ["get", "name"],
           ": ",
-          ["get", "Description"],
+          ["get", "status"],
           " (",
-          ["get", "LastModified"],
+          ["get", "date"],
           ")"
         ],
         "symbol-placement": "point",
