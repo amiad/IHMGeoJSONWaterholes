@@ -1,4 +1,28 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חצרה",
+        "flood_date": "20/11/21",
+        "flood_source": "וואטסאפ",
+        "name": "גב חצרה",
+        "status": "מלא",
+        "date": "22/11/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5229550550393510/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5155099626",
+        "Id": "5155099626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242565,
+          30.933475
+        ]
+      }
+    }
+  ]
 }
