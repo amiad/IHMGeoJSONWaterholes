@@ -4,6 +4,52 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "צאלים",
+        "flood_date": "21/11/21",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/5228376350510930/",
+        "name": "בריכת צפירה",
+        "status": "מלאה במים",
+        "date": "27/11/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5249818428366722/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3450870593",
+        "Id": "3450870593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277454,
+          31.337498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "בריכת נעמה",
+        "status": "מלאה במים",
+        "date": "27/11/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5248677191814179/?__cft__[0]=AZXVbF-DwvAtCsp0Rf0deq1EYvAbqXPLpMzhSYBQHdF9T1JxXMbIMtLYRCVg__3-hA17MISxsS5jsn3BqVJ1XVbs5aIs0dhZX16XBoo6HbTAKAhhTvu3PqUPA1VyHuCwy8IonWpxegtEfjCqpFbgyTXnU28i5t6uJnMBCKxRJi2izfQLWMhJzLjf3AEZFQGLGHA&__tn__=%2CO%2CP-R",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4951575638",
+        "Id": "4951575638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29631,
+          31.345018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "חצרה",
         "flood_date": "20/11/21",
         "flood_source": "וואטסאפ",
