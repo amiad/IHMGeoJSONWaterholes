@@ -152,13 +152,36 @@
         "source2": "",
         "notes": "",
         "OSMId": "node_4789635823",
-        "Id": "l"
+        "Id": "4789635823"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           34.958504,
           30.834311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ימין",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי ימין",
+        "status": "מלאים עד החצי במים מחורף שעבר",
+        "date": "4/12/21",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5982746638",
+        "Id": "5982746638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.073471,
+          30.944349
         ]
       }
     }
