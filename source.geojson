@@ -73,6 +73,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי צאלים עליון",
+        "status": "מלאים במים אבל מלוכלכים מאד",
+        "date": "02/12/0121",
+        "source": "https://facebook.com/groups/myisrael100/permalink/5272303686118196/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4031035791",
+        "Id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251049,
+          31.3359356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "זוהר",
         "flood_date": "לא שטף",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5265092800172618/",
