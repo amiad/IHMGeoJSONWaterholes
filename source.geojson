@@ -32,8 +32,8 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/5228376350510930/",
         "name": "בריכת צפירה",
         "status": "מלאה במים",
-        "date": "28/11/2021",
-        "source": "https://www.facebook.com/groups/myisrael100/posts/5264772206871344/",
+        "date": "03/12/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5269241799757718/",
         "source2": "",
         "notes": "",
         "OSMId": "node_3450870593",
@@ -55,8 +55,8 @@
         "flood_source": "",
         "name": "בריכת נעמה",
         "status": "מלאה במים",
-        "date": "28/11/2021",
-        "source": "https://www.facebook.com/groups/myisrael100/posts/5264772206871344/",
+        "date": "03/12/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5269241799757718/",
         "source2": "",
         "notes": "",
         "OSMId": "node_4951575638",
@@ -170,7 +170,7 @@
         "flood_source": "https://www.facebook.com/photo?fbid=10159354877159627&set=a.10159354887429627",
         "name": "גב זרחן",
         "status": "מלא ודי מסריח",
-        "date": "3/12/21",
+        "date": "03/12/2021",
         "source": "https://www.facebook.com/photo?fbid=10159354877159627&set=a.10159354887429627",
         "source2": "",
         "notes": "",
@@ -189,11 +189,11 @@
       "type": "Feature",
       "properties": {
         "stream": "ימין",
-        "flood_date": "",
+        "flood_date": "לא שטף",
         "flood_source": "",
         "name": "גבי ימין",
         "status": "מלאים עד החצי במים מחורף שעבר",
-        "date": "4/12/21",
+        "date": "04/12/2021",
         "source": "",
         "source2": "",
         "notes": "",
@@ -205,6 +205,29 @@
         "coordinates": [
           35.073471,
           30.944349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חווה",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "גב חווה",
+        "status": "יבש",
+        "date": "10/12/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5293811323967432/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5635184322",
+        "Id": "5635184322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9036674,
+          30.7279053
         ]
       }
     }
