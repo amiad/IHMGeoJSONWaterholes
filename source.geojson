@@ -73,6 +73,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "ערוגות",
+        "flood_date": "21/11/21",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5228921687123063/",
+        "name": "מחרס דלל",
+        "status": "מלא. שני הגבים האחרונים והגב הגדול באמצע לא התנקו לגמרי. יתר הגבים נקיים",
+        "date": "22/12/2021",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9385451317",
+        "Id": "9385451317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343034,
+          31.467956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "צאלים",
         "flood_date": "21/11/21",
         "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/5228376350510930/",
