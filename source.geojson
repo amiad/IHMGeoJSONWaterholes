@@ -262,7 +262,7 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5381765585172005/",
         "name": "גב ילק",
         "status": "מלא",
-        "date": "03/01/2021",
+        "date": "03/01/2022",
         "source": "https://www.facebook.com/groups/myisrael100/posts/5388402374508326/",
         "source2": "",
         "notes": "",
@@ -274,6 +274,29 @@
         "coordinates": [
           34.9116173,
           30.5584507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "נקרות",
+        "flood_date": "01/01/22",
+        "flood_source": "מראה עיניים",
+        "name": "פרסת נקרות",
+        "status": "סתומה בסחף",
+        "date": "03/01/2022",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5388011631214067/?__cft__[0]=AZV_g0nbyYXBxZvvf9q7Bk0abwNVu9iMNoPh6env51oGh6idfQSpQVp_VsnVI8cQTMsF-uZ2QPCcHHXT9gQh1MhtY-ysjQfs2UGhOEz6ry24PTbainhfD4uZ-rPPf6IYxlXOJ5K2VwrNyEDADKfDs77kkxpT79yWib6EK0VJ4mvXFprLdomE7c9jYn_BqL6F76w&__tn__=%2CO%2CP-R",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5547627624",
+        "Id": "5547627624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9457016,
+          30.5984802
         ]
       }
     }
