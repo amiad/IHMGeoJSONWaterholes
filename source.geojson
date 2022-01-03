@@ -253,6 +253,29 @@
           30.944349
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ילק",
+        "flood_date": "01/01/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5381765585172005/",
+        "name": "גב ילק",
+        "status": "מלא",
+        "date": "03/01/2021",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5388402374508326/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4171476784",
+        "Id": "4171476784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9116173,
+          30.5584507
+        ]
+      }
     }
   ]
 }
