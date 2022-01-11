@@ -234,6 +234,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "חתירה",
+        "flood_date": "לא שטף",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382575365091027/",
+        "name": "עין ירקעם",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_2619083140",
+        "Id": "2619083140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0407372,
+          30.9381161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ימין",
         "flood_date": "לא שטף",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382575365091027/",
@@ -343,6 +366,29 @@
         "coordinates": [
           35.2886086,
           31.0094738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עתק",
+        "flood_date": "01/01/22",
+        "flood_source": "https://www.facebook.com/GorALexeY/posts/10218826516726800",
+        "name": "גבי עתק",
+        "status": "מלאים",
+        "date": "08/01/2022",
+        "source": "https://www.facebook.com/GorALexeY/posts/10218826516726800",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9411260517",
+        "Id": "9411260517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92017,
+          29.72878
         ]
       }
     }
