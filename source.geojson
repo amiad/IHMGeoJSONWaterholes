@@ -395,6 +395,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "שגיא",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "הקניון הלבן",
+        "status": "יבש",
+        "date": "09/01/2022",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5406594316022465/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_6413905085",
+        "Id": "6413905085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7318764,
+          30.2086658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "פרס",
         "flood_date": "לא שטף",
         "flood_source": "",
@@ -423,8 +446,8 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382629585085605/",
         "name": "גב עשרון",
         "status": "מלא",
-        "date": "",
-        "source": "https://m.facebook.com/maslulim.israel/photos/pcb.5071340809566110/5071340659566125/?type=3&source=48",
+        "date": "12/01/2022",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5415061051842458/",
         "source2": "",
         "notes": "",
         "OSMId": "node_4477197987",
