@@ -303,6 +303,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "צרור",
+        "flood_date": "01/01/22",
+        "flood_source": "ווצאפ",
+        "name": "גב צרור",
+        "status": "מלא",
+        "date": "08/01/2022",
+        "source": "פייסבוק",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3879544350",
+        "Id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.8567238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ילק",
         "flood_date": "01/01/22",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5381765585172005/",
