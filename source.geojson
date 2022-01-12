@@ -313,13 +313,36 @@
         "source2": "",
         "notes": "",
         "OSMId": "node_3879544350",
-        "Id": ""
+        "Id": "3879544350"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           34.822567,
           30.8567238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שרף",
+        "flood_date": "לא שטף",
+        "flood_source": "https://www.facebook.com/yoav.negev/posts/10159627526539034",
+        "name": "גבי שרף",
+        "status": "יבשים",
+        "date": "08/01/2022",
+        "source": "https://www.facebook.com/yoav.negev/posts/10159627526539034",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4892402431",
+        "Id": "4892402431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0285072,
+          30.782711
         ]
       }
     },
@@ -389,6 +412,29 @@
         "coordinates": [
           35.2886086,
           31.0094738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עשרון",
+        "flood_date": "01/01/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382629585085605/",
+        "name": "גב עשרון",
+        "status": "מלא",
+        "date": "",
+        "source": "https://m.facebook.com/maslulim.israel/photos/pcb.5071340809566110/5071340659566125/?type=3&source=48",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4477197987",
+        "Id": "4477197987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9719467,
+          29.9152775
         ]
       }
     },
