@@ -418,6 +418,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "צניפים",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב צניפים",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "",
+        "Id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.828321,
+          30.072467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "פרס",
         "flood_date": "לא שטף",
         "flood_source": "",
