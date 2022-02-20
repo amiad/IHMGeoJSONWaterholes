@@ -1,4 +1,488 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "דוד",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "גב חלון",
+        "status": "מים מהעונה שעברה",
+        "date": "24/11/21",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_508055214",
+        "Id": "508055214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3845129,
+          31.4715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זוהר",
+        "flood_date": "19/02/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5562898817058680/",
+        "name": "גב זוהר",
+        "status": "מלא",
+        "date": "19/02/22",
+        "source": "פייסבוק",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5427499921",
+        "Id": "5427499921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345829,
+          31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חבר",
+        "flood_date": "05/02/22",
+        "flood_source": "מראה עיניים",
+        "name": "גבי חבר",
+        "status": "מלאים במים מלוכלכים",
+        "date": "02/12/21",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5264360730245825/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_1922318519",
+        "Id": "1922318519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.332049,
+          31.433278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "משמר",
+        "flood_date": "27/01/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5483820421633187/",
+        "name": "נחל משמר",
+        "status": "הגבים מלאים ודורשים שחייה, הרב מותניים , 2 עד צוואר",
+        "date": "12/02/22",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "relation_11073893",
+        "Id": "11073893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.347384,
+          31.381188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ערוגות",
+        "flood_date": "19/02/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5562822823732946/",
+        "name": "מחרס דלל",
+        "status": "מלא. שני הגבים האחרונים והגב הגדול באמצע לא התנקו לגמרי. יתר הגבים נקיים",
+        "date": "מלא. שני הגבים האחרונים והגב הגדול באמצע לא התנקו לגמרי. יתר הגבים נקיים",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9385451317",
+        "Id": "9385451317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343034,
+          31.467956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צאלים",
+        "flood_date": "19/02/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5562714913743737/",
+        "name": "בריכת צפירה",
+        "status": "מלאה במים ונקיה",
+        "date": "02/02/22",
+        "source": "https://www.facebook.com/groups/myisrael100/permalink/5507841915897704/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3450870593",
+        "Id": "3450870593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277454,
+          31.337498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "בריכת נעמה",
+        "status": "מלאה במים ונקיה",
+        "date": "02/02/22",
+        "source": "https://www.facebook.com/groups/myisrael100/permalink/5507841915897704/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4951575638",
+        "Id": "4951575638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29631,
+          31.345018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי צאלים עליון",
+        "status": "מלאים במים אבל מלוכלכים מאד",
+        "date": "",
+        "source": "https://facebook.com/groups/myisrael100/permalink/5272303686118196/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4031035791",
+        "Id": "4031035791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251049,
+          31.3359356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זרחן",
+        "flood_date": "20/11/21",
+        "flood_source": "https://www.facebook.com/photo?fbid=10159354877159627&set=a.10159354887429627",
+        "name": "גב זרחן",
+        "status": "מלא ונקי",
+        "date": "10/01/22",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5412267225455174/?__cft__[0]=AZVxD8-3e-SkXMPhexVRaPmf4SaZ3yeg6PnA2SXWiy1Kc26teGK6uwNxUrqgPnxIVwVc_vaYONJChOt2BnIApqdg-U9Lj7sNefWCMSSHAdK8X4itYP0VuyMfIHwmKmlsrhqLfX55uF9dy29zwBoeI83TrF6jKRtWheJoeZzDe0XXr6ndyT7SGPviFlQ9ka8WAu0&__tn__=%2CO%2CP-R",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4789635823",
+        "Id": "4789635823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.958504,
+          30.834311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חווה",
+        "flood_date": "03/01/22",
+        "flood_source": "שטף לפרקים",
+        "name": "גב חווה",
+        "status": "יבש",
+        "date": "10/12/21",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5293811323967432/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5635184322",
+        "Id": "5635184322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9036674,
+          30.7279053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חתירה",
+        "flood_date": "לא שטף",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382575365091027/",
+        "name": "עין ירקעם",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_2619083140",
+        "Id": "2619083140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0407372,
+          30.9381161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ימין",
+        "flood_date": "לא שטף",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382575365091027/",
+        "name": "גבי ימין",
+        "status": "מלאים עד החצי במים מחורף שעבר",
+        "date": "04/12/21",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5982746638",
+        "Id": "5982746638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.073471,
+          30.944349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חצרה",
+        "flood_date": "19/02/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5563160223699206/",
+        "name": "גב חצרה",
+        "status": "מלא ועמוק",
+        "date": "30/11/21",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5229550550393510/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5155099626",
+        "Id": "5155099626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242565,
+          30.933475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צרור",
+        "flood_date": "01/01/22",
+        "flood_source": "ווצאפ",
+        "name": "גב צרור",
+        "status": "מלא",
+        "date": "08/01/22",
+        "source": "פייסבוק",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3879544350",
+        "Id": "3879544350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.8567238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שרף",
+        "flood_date": "לא שטף",
+        "flood_source": "https://www.facebook.com/yoav.negev/posts/10159627526539034",
+        "name": "גבי שרף",
+        "status": "יבשים",
+        "date": "08/02/22",
+        "source": "https://www.facebook.com/photo/?fbid=4788295001266816&set=pcb.4788299561266360",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4892402431",
+        "Id": "4892402431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0285072,
+          30.782711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ילק",
+        "flood_date": "01/01/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5381765585172005/",
+        "name": "גב ילק",
+        "status": "מלא",
+        "date": "03/01/22",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5388402374508326/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4171476784",
+        "Id": "4171476784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9116173,
+          30.5584507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "נקרות",
+        "flood_date": "01/01/22",
+        "flood_source": "מראה עיניים",
+        "name": "פרסת נקרות",
+        "status": "סתומה בסחף",
+        "date": "03/01/22",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5547627624",
+        "Id": "5547627624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9457016,
+          30.5984802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שגיא",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "הקניון הלבן",
+        "status": "יבש",
+        "date": "09/01/22",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5406594316022465/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_6413905085",
+        "Id": "6413905085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7318764,
+          30.2086658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "פרס",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "גבי פרס",
+        "status": "יבשים",
+        "date": "29/01/22",
+        "source": "פייסבוק",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_1918633332",
+        "Id": "1918633332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2886086,
+          31.0094738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עשרון",
+        "flood_date": "01/01/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382629585085605/",
+        "name": "גב עשרון",
+        "status": "מלא",
+        "date": "12/01/22",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5415061051842458/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4477197987",
+        "Id": "4477197987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9719467,
+          29.9152775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עתק",
+        "flood_date": "01/01/22",
+        "flood_source": "",
+        "name": "גבי עתק",
+        "status": "מלאים",
+        "date": "07/02/22",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5530093677005861/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9411260517",
+        "Id": "9411260517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92017,
+          29.72878
+        ]
+      }
+    }
+  ]
 }
