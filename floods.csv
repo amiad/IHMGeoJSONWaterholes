@@ -53,7 +53,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 חדב,01/01/22,מראה עיניים,גב חדב,ריק,21/01/22,מראה עיניים,,,,,,
 מישר,01/01/22,מראה עיניים,,,,,,,,,,
 פארן,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5562328147115747/,גבי פארן,מלאים,05/01/22,מראה עיניים,,,,,,
-שגיא,לא שטף,,הקניון הלבן,יבש,09/01/22,https://www.facebook.com/groups/myisrael100/posts/5406594316022465/,,,node_6413905085,30.2086658,34.7318764,6413905085
+שגיא,לא שטף,,הקניון הלבן,מלא מים,27/02/22,https://www.facebook.com/groups/myisrael100/posts/5586819881333240/,,,node_6413905085,30.2086658,34.7318764,6413905085
 ,,,,,,,,,,,,
 דרום הנגב,,,,,,,,,,,,
 יחם,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5562331037115458/,,,,,,,,,,
@@ -70,7 +70,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 הרי אילת,,,,,,,,,,,,
 גשרון,10/01/22,https://www.facebook.com/ynbarak/posts/4665866850165035,גב גשרון,מלא מים,19/02/22,,,,,,,
 סעיפים,01/01/22,https://www.facebook.com /groups/myisrael100/posts/5383360641679166/ד,,,,,,,,,,
-עתק,01/01/22,,גבי עתק,מלאים עדיין 12.2,07/02/22,https://www.facebook.com/groups/myisrael100/posts/5530093677005861/,,,node_9411260517,29.72878,34.92017,9411260517
+עתק,01/01/22,,גבי עתק,מלאים עדיין,12/02/22,https://www.facebook.com/groups/myisrael100/posts/5530093677005861/,,,node_9411260517,29.72878,34.92017,9411260517
 קטורה,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5561962040485691/,,,,,,,,,,
 רחם,19/02/22,פייסבוק(בית ספר שדה אילת),,,,,,,,,,
 שני (קניון אדום),01/01/22,https://www.facebook.com/groups/myisrael100/posts/5383793364969227/,,אין מים,12/2/22,,,,,,,
@@ -78,9 +78,3 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 שחמון,01/01/22,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,, ,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,ק,,,,,,,,
