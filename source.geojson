@@ -101,7 +101,7 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5562822823732946/",
         "name": "מחרס דלל",
         "status": "מלא. שני הגבים האחרונים והגב הגדול באמצע לא התנקו לגמרי. יתר הגבים נקיים",
-        "date": "מלא. שני הגבים האחרונים והגב הגדול באמצע לא התנקו לגמרי. יתר הגבים נקיים",
+        "date": "",
         "source": "מראה עיניים",
         "source2": "",
         "notes": "",
@@ -396,7 +396,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שגיא",
-        "flood_date": "לא שטף",
+        "flood_date": "",
         "flood_source": "",
         "name": "הקניון הלבן",
         "status": "מלא מים",
