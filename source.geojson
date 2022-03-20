@@ -234,6 +234,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "חצרה",
+        "flood_date": "19/02/22",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5563160223699206/",
+        "name": "גב חצרה",
+        "status": "מלא ועמוק",
+        "date": "30/11/21",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/5229550550393510/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5155099626",
+        "Id": "5155099626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242565,
+          30.933475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "חתירה",
         "flood_date": "לא שטף",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5382575365091027/",
@@ -274,29 +297,6 @@
         "coordinates": [
           35.073471,
           30.944349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "חצרה",
-        "flood_date": "19/02/22",
-        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/5563160223699206/",
-        "name": "גב חצרה",
-        "status": "מלא ועמוק",
-        "date": "30/11/21",
-        "source": "https://www.facebook.com/groups/myisrael100/posts/5229550550393510/",
-        "source2": "",
-        "notes": "",
-        "OSMId": "node_5155099626",
-        "Id": "5155099626"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.242565,
-          30.933475
         ]
       }
     },
