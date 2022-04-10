@@ -11,11 +11,11 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 קומראן,27/01/22,https://www.facebook.com/%D7%91%D7%99%D7%AA-%D7%A1%D7%A4%D7%A8-%D7%A9%D7%93%D7%94-%D7%A2%D7%99%D7%9F-%D7%92%D7%93%D7%99-589000297843303,,,,,,,,,,
 ,,,,,,,,,,,,
 דרום מדבר יהודה,,,,,,,,,,,,
-אשלים,לא שטף,https://www.facebook.com/groups/myisrael100/permalink/5430497596965470/,גבי אשלים,הגבים מלאים,05/03/22,https://www.facebook.com/groups/myisrael100/posts/5606306306051264/,,,,,,
+אשלים,שטף,,גבי אשלים,גבים מלאים ונקיים. שניים דורשים שחייה.,07/04/22,מראה עיניים,,,,,,
 דוד,לא שטף,,גב חלון,מים מהעונה שעברה,24/11/21,,,,node_508055214,31.4715366,35.3845129,508055214
 הרדוף,19/02/22,מראה עיניים,גבי הרדוף,מלאים במים טריים,20/03/22,,,,,,,
 זוהר,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5562898817058680/,גב זוהר,"גב זוהר ריק, רק הגב שמעליו מלא",19/02/22,פייסבוק,,,node_5427499921,31.151249,35.345829,5427499921
-חבר,05/02/22,מראה עיניים,גבי חבר,מלאים במים מלוכלכים,02/12/21,02/12/21,,,node_1922318519,31.433278,35.332049,1922318519
+חבר,05/02/22,מראה עיניים,גבי חבר,מלאים במים מלוכלכים,02/12/21,"""https://www.facebook.com/groups/myisrael100/posts/5264360730245825",,,node_1922318519,31.433278,35.332049,1922318519
 חלמיש,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5562898817058680/,,,,,,,,,,
 חמר,05/02/22,https://www.facebook.com/groups/myisrael100/posts/5517201418295087/,,גבים מלאים לפני ואחרי עין אשד,25/01/22,מראה עיניים,,,,,,
 משמר,27/01/22,https://www.facebook.com/groups/myisrael100/posts/5483820421633187/,נחל משמר,"הגבים עבושים ולא מזמינים, ניצן עם קצת מאמץ לא להיכנס, יש כמה גבים יפים לשכשך רגליים",27/03/22,מראה עיניים,,,relation_11073893,31.381188,35.347384,11073893
@@ -27,7 +27,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 רחף,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5562205360461359/,גבי רחף,"מלאים במים לא נקיים, חלקם מסריחים. עדיין מאפשר מעבר, אבל כבר לא נעים להישאר בתוכם",07/04/22,מראה עיניים,,,,,,
 ,,,,,,,,,,,,
 הנגב הצפוני,,,,,,,,,,,,
-דבשון,,https://www.facebook.com/groups/myisrael100/posts/5381909198490977/,,,,,,,,,,
+דבשון,01/01/22,https://www.facebook.com/groups/myisrael100/posts/5381909198490977/,,,,,,,,,,
 דרוך,01/01/22,ווצאפ,גב דרוך,מלא,,,,,,,,
 זרחן,20/11/21,https://www.facebook.com/photo?fbid=10159354877159627&set=a.10159354887429627,גב זרחן,מלא ונקי,02/04/22,וואטסאפ ,,,node_4789635823,30.834311,34.958504,4789635823
 חווארים,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5561694653845763/,,,,,,,,,,
@@ -47,8 +47,8 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 רמון,01/01/22,https://www.facebook.com/groups/myisrael100/posts/5383232301692000/,,,,,,,,,,
 גוונים,01/01/22,מראה עיניים,,,,,,,,,,
 ילק,01/01/22,https://www.facebook.com/groups/myisrael100/posts/5381765585172005/,גב ילק,מלא,03/01/22,https://www.facebook.com/groups/myisrael100/posts/5388402374508326/,,,node_4171476784,30.5584507,34.9116173,4171476784
-נקרות,01/01/22,מראה עיניים,פרסת נקרות,סתומה בסחף,03/01/22,,,,node_5547627624,30.5984802,34.9457016,5547627624
-,,,,,,https://www.facebook.com/groups/myisrael100/posts/5388011631214067/?__cft__[0]=AZV_g0nbyYXBxZvvf9q7Bk0abwNVu9iMNoPh6env51oGh6idfQSpQVp_VsnVI8cQTMsF-uZ2QPCcHHXT9gQh1MhtY-ysjQfs2UGhOEz6ry24PTbainhfD4uZ-rPPf6IYxlXOJ5K2VwrNyEDADKfDs77kkxpT79yWib6EK0VJ4mvXFprLdomE7c9jYn_BqL6F76w&__tn__=%2CO%2CP-R,,,,,,
+נקרות,01/01/22,מראה עיניים,פרסת נקרות,סתומה בסחף,03/01/22,https://www.facebook.com/groups/myisrael100/posts/5388011631214067/?__cft__[0]=AZV_g0nbyYXBxZvvf9q7Bk0abwNVu9iMNoPh6env51oGh6idfQSpQVp_VsnVI8cQTMsF-uZ2QPCcHHXT9gQh1MhtY-ysjQfs2UGhOEz6ry24PTbainhfD4uZ-rPPf6IYxlXOJ5K2VwrNyEDADKfDs77kkxpT79yWib6EK0VJ4mvXFprLdomE7c9jYn_BqL6F76w&__tn__=%2CO%2CP-R,,,node_5547627624,30.5984802,34.9457016,5547627624
+,,,,,,,,,,,,
 מרכז הנגב,,,,,,,,,,,,
 חדב,01/01/22,מראה עיניים,גב חדב,ריק,21/01/22,מראה עיניים,,,,,,
 מישר,01/01/22,מראה עיניים,,,,,,,,,,
@@ -70,9 +70,9 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 הרי אילת,,,,,,,,,,,,
 גשרון,10/01/22,https://www.facebook.com/ynbarak/posts/4665866850165035,גב גשרון,מלא מים,19/02/22,,,,,,,
 סעיפים,01/01/22,https://www.facebook.com /groups/myisrael100/posts/5383360641679166/ד,,,,,,,,,,
-עתק,01/01/22,,גבי עתק,מלאים וטובים 20.3,12/02/22,https://www.facebook.com/groups/myisrael100/posts/5530093677005861/,,,node_9411260517,29.72878,34.92017,9411260517
+עתק,01/01/22,,גבי עתק,מלאים וטובים,20/03/22,,,,node_9411260517,29.72878,34.92017,9411260517
 קטורה,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5561962040485691/,,,,,,,,,,
-רחם,19/02/22,פייסבוק(בית ספר שדה אילת),,אין מים 20.3,,,,,,,,
+רחם,19/02/22,פייסבוק(בית ספר שדה אילת),,אין מים,20/3/22,,,,,,,
 שני (קניון אדום),01/01/22,https://www.facebook.com/groups/myisrael100/posts/5383793364969227/,,אין מים,12/2/22,,,,,,,
 שחורת,19/02/22,https://www.facebook.com/groups/myisrael100/posts/5561618117186750/,,,,,,,,,,
 שחמון,01/01/22,,,,,,,,,,,
