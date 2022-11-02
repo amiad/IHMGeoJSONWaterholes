@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "",
+        "flood_date": "02/11/22",
         "flood_source": "",
         "name": "גבי חבר",
         "status": "",
@@ -97,7 +97,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ערוגות",
-        "flood_date": "1/11/22",
+        "flood_date": "2/11/22",
         "flood_source": "",
         "name": "מחרס דלל",
         "status": "",
