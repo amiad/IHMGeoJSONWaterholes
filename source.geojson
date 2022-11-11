@@ -1,4 +1,488 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "דוד",
+        "flood_date": "2/11/2022",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/6313339745347913/?sfnsn=mo&ref=share",
+        "name": "גב חלון",
+        "status": "מלא",
+        "date": "03/11/22",
+        "source": "https://t.me/hashamba/184",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_508055214",
+        "Id": "508055214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3845129,
+          31.4715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זוהר",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב זוהר",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5427499921",
+        "Id": "5427499921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345829,
+          31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חבר",
+        "flood_date": "02/11/2022",
+        "flood_source": "https://fb.watch/gymcHgcSZA/",
+        "name": "גבי חבר",
+        "status": "גבי חבר מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
+        "date": "05/11/22",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_1922318519",
+        "Id": "1922318519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.332049,
+          31.433278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "משמר",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "נחל משמר",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "relation_11073893",
+        "Id": "11073893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.347384,
+          31.381188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ערוגות",
+        "flood_date": "02/11/2022",
+        "flood_source": "https://www.facebook.com/537474675/videos/516968426979446/",
+        "name": "מחרס דלל",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9385451317",
+        "Id": "9385451317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343034,
+          31.467956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צאלים",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "בריכת צפירה",
+        "status": "מעט מים מלוכלכים",
+        "date": "06/11/22",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3450870593",
+        "Id": "3450870593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277454,
+          31.337498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "בריכת נעמה",
+        "status": "מעט מים מלוכלכים",
+        "date": "06/11/22",
+        "source": "https://www.facebook.com/photo/?fbid=559794846153581&set=a.559807602818972",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4951575638",
+        "Id": "4951575638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29631,
+          31.345018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי צאלים עליון",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4031035791",
+        "Id": "4031035791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251049,
+          31.3359356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זרחן",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב זרחן",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4789635823",
+        "Id": "4789635823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.958504,
+          30.834311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חווה",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב חווה",
+        "status": "יבש",
+        "date": "16/08/22",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5635184322",
+        "Id": "5635184322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9036674,
+          30.7279053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חצרה",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב חצרה",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5155099626",
+        "Id": "5155099626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242565,
+          30.933475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חתירה",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "עין ירקעם",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_2619083140",
+        "Id": "2619083140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0407372,
+          30.9381161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ימין",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי ימין",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5982746638",
+        "Id": "5982746638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.073471,
+          30.944349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צרור",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב צרור",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_3879544350",
+        "Id": "3879544350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.8567238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שרף",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי שרף",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4892402431",
+        "Id": "4892402431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0285072,
+          30.782711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ילק",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב ילק",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4171476784",
+        "Id": "4171476784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9116173,
+          30.5584507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "נקרות",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "פרסת נקרות",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5547627624",
+        "Id": "5547627624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9457016,
+          30.5984802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שגיא",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "הקניון הלבן",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_6413905085",
+        "Id": "6413905085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7318764,
+          30.2086658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "פרס",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי פרס",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_1918633332",
+        "Id": "1918633332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2886086,
+          31.0094738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עשרון",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב עשרון",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_4477197987",
+        "Id": "4477197987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9719467,
+          29.9152775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עתק",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי עתק",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9411260517",
+        "Id": "9411260517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92017,
+          29.72878
+        ]
+      }
+    }
+  ]
 }
