@@ -120,8 +120,8 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "26/12/2022",
+        "flood_source": "טלגרם",
         "name": "בריכת צפירה",
         "status": "עמוקה עם מים באיכות בינונית",
         "date": "17/11/2022",
