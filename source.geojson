@@ -373,8 +373,8 @@
       "type": "Feature",
       "properties": {
         "stream": "נקרות",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "26/12/2022",
+        "flood_source": "טלגרם",
         "name": "פרסת נקרות",
         "status": "יבש מלא סחף",
         "date": "30/11/2022",
