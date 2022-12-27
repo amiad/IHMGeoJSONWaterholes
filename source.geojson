@@ -441,6 +441,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "ברק",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי ברק",
+        "status": "יבש",
+        "date": "27/12/2022",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_10289834516",
+        "Id": "10289834516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.057738,
+          30.379724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ורדית",
         "flood_date": "",
         "flood_source": "",
