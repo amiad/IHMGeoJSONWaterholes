@@ -441,6 +441,29 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "ורדית",
+        "flood_date": "",
+        "flood_source": "מראה עיניים",
+        "name": "גבי ורדית",
+        "status": "יבש",
+        "date": "27/12/2022",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_8616502217",
+        "Id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.021649,
+          30.349084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "עשרון",
         "flood_date": "",
         "flood_source": "",
