@@ -9,7 +9,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 קדם,26/12/2022,טלגרם,,,,,,,,,,
 קדרון (מזוהם),26/12/2022,https://t.me/c/1285030923/14073,,,,,,,,,,
 קומראן,26/12/2022,https://www.facebook.com/groups/myisrael100/posts/6479853038696582/,,,,,,,,,,
-תקוע,,,,הגבים התייבשו,30/11/22,http://bit.ly/3tUlaEk,,,,,,
+תקוע,,,,גבים מלאים,29/12/22,http://bit.ly/3tUlaEk,,,,,,
 ,,,,,,,,,,,,
 דרום מדבר יהודה,, ,,,,,,,,,,
 אבוב,26/12/2022,https://www.facebook.com/groups/myisrael100/posts/6479773578704528/,,,,,,,,,,
@@ -31,6 +31,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 רחף,26/12/22,,גבי רחף,גבים מלאים,27/12/22,https://t.me/hashamba/1152,,,,,,
 ,,,,,,,,,,,,
 הנגב הצפוני,,,,,,,,,,,,
+גוב,26/12/2022,טלגרם,,גבים מלאים,29/12/22,פייסבוק פרטי,,,,,,
 דבשון,26/12/22,וואטסאפ,,,,,,,,,,
 דרוך,,,גב דרוך,,,,,,,,,
 זרחן,,,גב זרחן,יבש,17/12/22,,,,node_4789635823,30.834311,34.958504,4789635823
@@ -41,7 +42,6 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 חתירה,26/12/2022,טלגרם,עין ירקעם,מלא מים,28/12/22,https://t.me/hashamba/1177,,,node_2619083140,30.9381161,35.0407372,2619083140
 טרף,29/11/2022,,גבי נחל טרף,מלא ,20/12/22,,,,,,,
 ימין,24/12/2022,https://m.facebook.com/story.php?story_fbid=pfbid0FYwQ9Ug6jBbQn83ze8nA39m5m7kfYTVn58ZYiqA9dEVhf2XwuoZLXLCycbTTY2Ufl&id=546537367&mibextid=Nif5oz,גבי ימין,מלאים,28/12/22,https://t.me/hashamba/1178,,,node_5982746638,30.944349,35.073471,5982746638
-גוב,26/12/2022,טלגרם,,,,,,,,,,
 כמוס,29/11/2022,מראה עיניים,,,02/12/22,,,,,,,
 ממשית,24/12/2022,https://m.facebook.com/story.php?story_fbid=pfbid02daodSSHkJpQRZNVuChphC66oDE2e55icKxURo5NHEoMM18o31oTYPABP7QWZsyA7l&id=546537367&mibextid=Nif5oz,,,,,,,,,,
 מרזבה,,,עין אום צלח,מלא מים במצב לא משהו,03/12/22,https://t.me/hashamba/671,,,,,,
@@ -68,7 +68,7 @@ stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latit
 שגיא,,,הקניון הלבן,יבש,02/12/22,,,,node_6413905085,30.2086658,34.7318764,6413905085
 ,,,,,,,,,,,,
 דרום הנגב,,,,,,,,,,,,
-יחם,29/11/2022,https://www.facebook.com/sharon.fisher.75491/posts/pfbid0pGziVrDhF93tTfjLkMDLCpvVthzWcoH6j4zcjoMHPi99QB8qSXqc71uue1LWhV5nl,גב יחם,הגב הגדול מתחת המפל יבש יש גב בגובה מטר בתחילת הקניון,22/12/22,מראה עיניים,,,,,,
+יחם,29/11/2022,https://www.facebook.com/sharon.fisher.75491/posts/pfbid0pGziVrDhF93tTfjLkMDLCpvVthzWcoH6j4zcjoMHPi99QB8qSXqc71uue1LWhV5nl,גב יחם,"הגב הגדול מתחת המפל יבש, יש גב בגובה מטר בתחילת הקניון",22/12/22,מראה עיניים,,,,,,
 ,,,,,,,,,,,,
 צפון הערבה,,,,,,,,,,,,
 פרס,,,גבי פרס,יבש,20/12/22,מראה עיניים ,,,node_1918633332,31.0094738,35.2886086,1918633332
