@@ -289,14 +289,14 @@
         "source": "https://t.me/hashamba/1178",
         "source2": "",
         "notes": "",
-        "OSMId": "node_5982746638",
-        "Id": "5982746638"
+        "OSMId": "node_2620256033",
+        "Id": "2620256033"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.073471,
-          30.944349
+          35.0731331,
+          30.9439447
         ]
       }
     },
