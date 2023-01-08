@@ -189,7 +189,7 @@
       "type": "Feature",
       "properties": {
         "stream": "זרחן",
-        "flood_date": "26/12/22",
+        "flood_date": "26/12/2022",
         "flood_source": "",
         "name": "גב זרחן",
         "status": "מלא",
@@ -212,7 +212,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חווה",
-        "flood_date": "26/12/22",
+        "flood_date": "26/12/2022",
         "flood_source": "",
         "name": "גב חווה",
         "status": "מלא",
