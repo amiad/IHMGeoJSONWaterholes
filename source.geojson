@@ -281,8 +281,8 @@
       "type": "Feature",
       "properties": {
         "stream": "ימין",
-        "flood_date": "24/12/2022",
-        "flood_source": "https://m.facebook.com/story.php?story_fbid=pfbid0FYwQ9Ug6jBbQn83ze8nA39m5m7kfYTVn58ZYiqA9dEVhf2XwuoZLXLCycbTTY2Ufl&id=546537367&mibextid=Nif5oz",
+        "flood_date": "09/01/2023",
+        "flood_source": "טלגרם ",
         "name": "גבי ימין",
         "status": "מלאים",
         "date": "03/01/23",
@@ -373,7 +373,7 @@
       "type": "Feature",
       "properties": {
         "stream": "נקרות",
-        "flood_date": "26/12/2022",
+        "flood_date": "09/01/2023",
         "flood_source": "טלגרם",
         "name": "פרסת נקרות",
         "status": "יבש מלא סחף",
