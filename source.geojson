@@ -4,6 +4,121 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "דוד",
+        "flood_date": "09/01/2023",
+        "flood_source": "וואטסאפ",
+        "name": "גב חלון",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_508055214",
+        "Id": "508055214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3845129,
+          31.4715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זוהר",
+        "flood_date": "26/12/2022",
+        "flood_source": "טלגרם",
+        "name": "",
+        "status": "גבים נקיים וכמעט מלאים עד הסוף",
+        "date": "28/12/22",
+        "source": "",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_5427499921",
+        "Id": "5427499921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345829,
+          31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חבר",
+        "flood_date": "26/12/2022",
+        "flood_source": "https://fb.watch/gymcHgcSZA/",
+        "name": "גבי חבר",
+        "status": "גבי חבר מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
+        "date": "05/11/22",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_1922318519",
+        "Id": "1922318519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.332049,
+          31.433278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "משמר",
+        "flood_date": "26/12/2022",
+        "flood_source": "",
+        "name": "נחל משמר",
+        "status": "מלא, נקיים",
+        "date": "03/01/23",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/6505556142792938/",
+        "source2": "",
+        "notes": "",
+        "OSMId": "relation_11073893",
+        "Id": "11073893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.347384,
+          31.381188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ערוגות",
+        "flood_date": "02/11/2022",
+        "flood_source": "https://www.facebook.com/537474675/videos/516968426979446/",
+        "name": "מחרס דלל",
+        "status": "מלא, אבל לא להיט",
+        "date": "06/12/22",
+        "source": "https://t.me/hashamba/712",
+        "source2": "",
+        "notes": "",
+        "OSMId": "node_9385451317",
+        "Id": "9385451317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343034,
+          31.467956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "צאלים",
         "flood_date": "26/12/2022",
         "flood_source": "טלגרם",
