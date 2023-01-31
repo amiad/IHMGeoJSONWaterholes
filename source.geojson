@@ -204,7 +204,7 @@
         "type": "Point",
         "coordinates": [
           34.958504,
-          30.834311
+          5.21142e+41
         ]
       }
     },
@@ -284,9 +284,9 @@
         "flood_date": "09/01/2023",
         "flood_source": "טלגרם ",
         "name": "גבי ימין",
-        "status": "מלאים",
-        "date": "17.1.23",
-        "source": "https://www.facebook.com/groups/myisrael100/posts/6504318972916655/",
+        "status": "מעט מים מעופשים",
+        "date": "44899",
+        "source": "",
         "source2": "",
         "notes": "",
         "OSMId": "node_2620256033",
