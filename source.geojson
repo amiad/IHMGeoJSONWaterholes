@@ -419,8 +419,8 @@
       "type": "Feature",
       "properties": {
         "stream": "פרס",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "14/03/2023",
+        "flood_source": "הייתי שם",
         "name": "גבי פרס",
         "status": "מעט מים",
         "date": "07/01/23",
@@ -488,8 +488,8 @@
       "type": "Feature",
       "properties": {
         "stream": "עשרון",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "14/03/2023",
+        "flood_source": "פייסבוק",
         "name": "גב עשרון",
         "status": "",
         "date": "",
