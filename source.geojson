@@ -350,7 +350,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ילק",
-        "flood_date": "29/11/2022",
+        "flood_date": "14/03/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6387263551288865/",
         "name": "גב ילק",
         "status": "מלא",
@@ -442,8 +442,8 @@
       "type": "Feature",
       "properties": {
         "stream": "ברק",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "14/03/2023",
+        "flood_source": "פייסבוק טלגרם וכו'",
         "name": "גבי ברק",
         "status": "יבש",
         "date": "07/02/23",
