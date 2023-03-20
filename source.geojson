@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "08/02/2023",
+        "flood_date": "20/03/2023",
         "flood_source": "טלגרם",
         "name": "גבי חבר",
         "status": "גבי חבר מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
@@ -120,8 +120,8 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "08/02/2023",
-        "flood_source": "טלגרם",
+        "flood_date": "20/03/2023",
+        "flood_source": "https://t.me/hashamba/2354 ",
         "name": "בריכת צפירה",
         "status": "מלאה",
         "date": "",
