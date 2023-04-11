@@ -396,7 +396,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שגיא",
-        "flood_date": "15.03.2023",
+        "flood_date": "7.4.2023",
         "flood_source": "פייסבוק",
         "name": "הקניון הלבן",
         "status": "מלא",
@@ -527,29 +527,6 @@
         "coordinates": [
           34.92017,
           29.72878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "רחם",
-        "flood_date": "14/03/2023",
-        "flood_source": "מראה עיניים",
-        "name": "גבי רחם",
-        "status": "מעט מים, במצב ממש טוב",
-        "date": "19/03/23",
-        "source": "מראה עיניים",
-        "source2": "",
-        "notes": "",
-        "OSMId": "node_6323472863",
-        "Id": "6323472863"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.9217273,
-          29.6631576
         ]
       }
     }
