@@ -75,7 +75,7 @@
       "properties": {
         "stream": "חבר",
         "flood_date": "12/04/2023",
-        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/6826652187349997/?mibextid=Nif5oz",
         "name": "גבי חבר",
         "status": "גבי חבר מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
         "date": "05/11/22",
@@ -97,7 +97,7 @@
       "type": "Feature",
       "properties": {
         "stream": "משמר",
-        "flood_date": "14/3/23",
+        "flood_date": "12.04.23",
         "flood_source": "https://www.facebook.com/groups/221610213468649/permalink/521119023517765/",
         "name": "נחל משמר",
         "status": "גבים מלאים למחצה, חייבים לעבור בגבים בעומק מותניים",
@@ -396,8 +396,8 @@
       "type": "Feature",
       "properties": {
         "stream": "נקרות",
-        "flood_date": "17/01/2023",
-        "flood_source": "טלגרם",
+        "flood_date": "10.04.23",
+        "flood_source": "מראה עיניים",
         "name": "פרסת נקרות",
         "status": "יבש מלא סחף",
         "date": "21/02/22",
@@ -465,8 +465,8 @@
       "type": "Feature",
       "properties": {
         "stream": "ברק",
-        "flood_date": "14/03/2023",
-        "flood_source": "פייסבוק טלגרם וכו'",
+        "flood_date": "12.04.23",
+        "flood_source": "מראה עיניים",
         "name": "גבי ברק",
         "status": "מלאים",
         "date": "01/04/23",
@@ -511,7 +511,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עשרון",
-        "flood_date": "14/03/2023",
+        "flood_date": "12.04.23",
         "flood_source": "מראה עיניים",
         "name": "גב עשרון",
         "status": "מלא",
