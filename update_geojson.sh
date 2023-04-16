@@ -1,7 +1,7 @@
 #!/bin/bash
 url="https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS_Tl3rSas/export?format=csv&gid=0&range=A4:M100&headers=0"
 csv='floods.csv'
-head="stream,flood_date,flood_source,name,status,date,source,source2,notes,OSMId,Latitude,Longitude,Id"
+head="stream,flood_date,flood_source,name,status,date,source,source2,notes,Latitude,Longitude"
 
 pushd $(dirname "$0") > /dev/null
 git checkout main
