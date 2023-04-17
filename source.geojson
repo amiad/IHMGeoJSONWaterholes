@@ -46,6 +46,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "אשלים",
+        "flood_date": "14/03/2023",
+        "flood_source": "https://m.facebook.com/groups/myisrael100/permalink/6743112352370648/?mibextid=Nif5oz",
+        "name": "גבי אשלים",
+        "status": "מלאים, צלולים ורבים מחייבים שחיה",
+        "date": "31/03/2023",
+        "source": "https://t.me/hashamba/2006?single",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3253547,
+          31.0665641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "דוד",
         "flood_date": "12/04/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
