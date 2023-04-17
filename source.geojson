@@ -470,9 +470,9 @@
         "flood_date": "12.04.23",
         "flood_source": "מראה עיניים",
         "name": "גבי ברק",
-        "status": "מלאים",
-        "date": "01/04/2023",
-        "source": "טלגרם",
+        "status": "מלאים, הסולם נשבר ואין אפשרות לחצות",
+        "date": "15/04/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/6826235324058350?comment_id=6836997229648826",
         "source2": "",
         "notes": ""
       },
@@ -544,27 +544,6 @@
         "coordinates": [
           34.8283211,
           30.0724669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "עתק",
-        "flood_date": "14/03/2023",
-        "flood_source": "",
-        "name": "גבי עתק",
-        "status": "מלא במים טובים, האחרון מחייב שחייה ",
-        "date": "16/03/2023",
-        "source": "מראה עיניים",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.92017,
-          29.72878
         ]
       }
     }
