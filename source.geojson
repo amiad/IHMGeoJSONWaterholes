@@ -25,6 +25,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "חצצון",
+        "flood_date": "26/12/2022",
+        "flood_source": "טלגרם",
+        "name": "",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38287,
+          31.561408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "דוד",
         "flood_date": "12/04/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
@@ -51,7 +72,7 @@
         "flood_source": "טלגרם",
         "name": "גב זוהר",
         "status": "גבים נקיים וכמעט מלאים עד הסוף",
-        "date": "24/03/23",
+        "date": "24/03/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -71,8 +92,8 @@
         "flood_date": "12/04/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/6826652187349997/?mibextid=Nif5oz",
         "name": "גבי חבר",
-        "status": "גבי חבר מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
-        "date": "05/11/22",
+        "status": "מלאים ונקיים כמעט לגמרי. הגבים מתחת למפל הגדול מלאים ונקיים כולם. כל המעוקים מתחת למפל הגדול מוצפים. ",
+        "date": "05/11/2022",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -93,7 +114,7 @@
         "flood_source": "https://www.facebook.com/groups/221610213468649/permalink/521119023517765/",
         "name": "נחל משמר",
         "status": "גבים מלאים למחצה, חייבים לעבור בגבים בעומק מותניים",
-        "date": "18/03/23",
+        "date": "18/03/2023",
         "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02RhX1uruLfzwQN5mfKdEDQ5zvKE9uTHRRFrWot7awMgSmDvd9VwozvorhgLt9YNnHl&id=810884802",
         "source2": "",
         "notes": ""
@@ -114,7 +135,7 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
         "name": "מחרס דלל",
         "status": "מלא, אבל לא להיט",
-        "date": "06/12/22",
+        "date": "06/12/2022",
         "source": "https://t.me/hashamba/712",
         "source2": "",
         "notes": ""
@@ -135,7 +156,7 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
         "name": "בריכת צפירה",
         "status": "מלאה",
-        "date": "20/3/2023",
+        "date": "20/03/2023",
         "source": "https://www.facebook.com/groups/104202123393566/permalink/1544169152730182/?mibextid=Nif5oz",
         "source2": "",
         "notes": ""
@@ -156,7 +177,7 @@
         "flood_source": "",
         "name": "בריכת נעמה",
         "status": "",
-        "date": "08/03/23",
+        "date": "08/03/2023",
         "source": "https://www.facebook.com/groups/myisrael100/posts/6634811836534034/",
         "source2": "",
         "notes": ""
@@ -177,7 +198,7 @@
         "flood_source": "",
         "name": "גבי צאלים עליון",
         "status": "מלאים",
-        "date": "19/02/23",
+        "date": "19/02/2023",
         "source": "https://www.facebook.com/groups/myisrael100/posts/6634811836534034/",
         "source2": "",
         "notes": ""
@@ -198,7 +219,7 @@
         "flood_source": "",
         "name": "גב זרחן",
         "status": "מלא",
-        "date": "12/04/23",
+        "date": "12/04/2023",
         "source": "https://www.facebook.com/groups/myisrael100/posts/6496644497017436/",
         "source2": "",
         "notes": ""
@@ -219,7 +240,7 @@
         "flood_source": "",
         "name": "גב חווה",
         "status": "מלא ועמוק קפוא ונקי",
-        "date": "18/02/23",
+        "date": "18/02/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -261,7 +282,7 @@
         "flood_source": "מראה עיניים",
         "name": "עין ירקעם",
         "status": "מלא מים",
-        "date": "12/04/23",
+        "date": "12/04/2023",
         "source": "https://www.dropbox.com/s/7g2k0sm1ehc9b41/2023-04-02%2013.03.02.jpg?dl=0",
         "source2": "",
         "notes": ""
@@ -282,7 +303,7 @@
         "flood_source": "מראה עיניים",
         "name": "גבי ימין",
         "status": "מלאים, הרבה זחלי יתושים",
-        "date": "02/04/23",
+        "date": "02/04/2023",
         "source": "https://www.dropbox.com/s/j1jv144tuger31p/2023-04-02%2008.47.17.jpg?dl=0",
         "source2": "",
         "notes": ""
@@ -303,7 +324,7 @@
         "flood_source": "",
         "name": "גב צרור",
         "status": "מלא",
-        "date": "14/01/23",
+        "date": "14/01/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -324,7 +345,7 @@
         "flood_source": "",
         "name": "גבי שרף",
         "status": "שני גבים מלאים מים נקיים",
-        "date": "20/2/23",
+        "date": "20/02/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -345,7 +366,7 @@
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6387263551288865/",
         "name": "גב ילק",
         "status": "מלא",
-        "date": "14/04/23",
+        "date": "14/04/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -366,7 +387,7 @@
         "flood_source": "מראה עיניים",
         "name": "פרסת נקרות",
         "status": "יבש מלא סחף",
-        "date": "21/02/22",
+        "date": "21/02/2022",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -387,7 +408,7 @@
         "flood_source": "פייסבוק",
         "name": "הקניון הלבן",
         "status": "מלא",
-        "date": "9/4/23",
+        "date": "09/04/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -408,7 +429,7 @@
         "flood_source": "מעט מאוד מים במעוק, ניתן לעבור בלי להירטב , כנראה לא שטף בשבוע האחרון",
         "name": "גבי פרס",
         "status": "הגבים מלאים חלקית, ניתן להתרחץ , איכות המים סבירה . מעט מאוד מים במעוק, ניתן לעבור בלי להירטב , כנראה לא שטף בשבוע האחרון",
-        "date": "15/04/23",
+        "date": "15/04/2023",
         "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
@@ -424,12 +445,33 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "פארן",
+        "flood_date": "10.04.2023",
+        "flood_source": "וואטסאפ",
+        "name": "גבי פארן",
+        "status": "מלא ונקי",
+        "date": "07/04/2023",
+        "source": "מראה עיניים ",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8505775,
+          30.2882106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ברק",
         "flood_date": "12.04.23",
         "flood_source": "מראה עיניים",
         "name": "גבי ברק",
         "status": "מלאים",
-        "date": "01/04/23",
+        "date": "01/04/2023",
         "source": "טלגרם",
         "source2": "",
         "notes": ""
@@ -450,7 +492,7 @@
         "flood_source": "https://www.facebook.com/groups/israelsprings/permalink/2335800483265040/?mibextid=Nif5oz",
         "name": "גבי ורדית",
         "status": "מלאים",
-        "date": "12/04/23",
+        "date": "12/04/2023",
         "source": "דיווח מהשטח",
         "source2": "",
         "notes": ""
@@ -487,12 +529,33 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "צניפים",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב צניפים",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8283211,
+          30.0724669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "עתק",
         "flood_date": "14/03/2023",
         "flood_source": "",
         "name": "גבי עתק",
         "status": "מלא במים טובים, האחרון מחייב שחייה ",
-        "date": "16/03/23",
+        "date": "16/03/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
