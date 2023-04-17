@@ -2,7 +2,6 @@
   "version": 8,
   "name": "Floods",
   "metadata": {
-    "maputnik:license": "https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md",
     "maputnik:renderer": "mbgljs",
     "openmaptiles:version": "3.x"
   },
@@ -12,7 +11,6 @@
       "data": "https://raw.githubusercontent.com/amiad/IHMGeoJSONWaterholes/main/source.geojson"
     }
   },
-  "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
   "glyphs": "https://israelhikingmap.osm.org.il/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
@@ -21,15 +19,19 @@
       "metadata": {"IHM:overlay": true},
       "source": "waterholes",
       "minzoom": 13,
+      "filter": ["all", ["!=", "status", ""]],
       "layout": {
         "text-field": [
           "concat",
-          ["get", "name"],
-          ": ",
+          ["match", ["get", "name"], "", "", ["concat", ["get", "name"], ": "]],
           ["get", "status"],
-          " (",
-          ["get", "date"],
-          ")"
+          [
+            "match",
+            ["get", "date"],
+            "",
+            "",
+            ["concat", ["get", "name"], " (", ["get", "date"], ")"]
+          ]
         ],
         "symbol-placement": "point",
         "text-font": ["Open Sans Cond Bold"],
