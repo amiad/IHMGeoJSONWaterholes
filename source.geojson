@@ -67,6 +67,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "הרדוף",
+        "flood_date": "08/02/2023",
+        "flood_source": "",
+        "name": "גבי הרדוף",
+        "status": "מלאים ועמוקים",
+        "date": "08/03/2023",
+        "source": "https://t.me/hashamba/2017",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3009453,
+          31.3682919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "דוד",
         "flood_date": "12/04/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6820934821255067",
