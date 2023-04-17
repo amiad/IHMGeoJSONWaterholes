@@ -445,6 +445,48 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "צפית",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "עין צפית",
+        "status": "מלא",
+        "date": "28/12/2022",
+        "source": "מראה עיניים ",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253075,
+          31.0170689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "-",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב ספיר",
+        "status": "מלא",
+        "date": "01/12/2022",
+        "source": "וואטסאפ",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1565463,
+          30.6441023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "פארן",
         "flood_date": "10.04.2023",
         "flood_source": "וואטסאפ",
