@@ -781,6 +781,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "חיון",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי חיון",
+        "status": "חצי מלא",
+        "date": "08/04/2023",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9519574,
+          30.111668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "פרס",
         "flood_date": "15/04/2023",
         "flood_source": "מעט מאוד מים במעוק, ניתן לעבור בלי להירטב , כנראה לא שטף בשבוע האחרון",
