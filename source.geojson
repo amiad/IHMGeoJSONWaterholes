@@ -470,7 +470,7 @@
         "flood_date": "10/04/2023",
         "flood_source": "מראה עיניים",
         "name": "גבי צין",
-        "status": "יש המון מים תמיד מזיהום של מפעלי הפוספטים",
+        "status": "יש המון מים תמיד אבל עם זיהום של מפעלי הפוספטים",
         "date": "27/12/2022",
         "source": "",
         "source2": "https://www.facebook.com/100005749562762/videos/2559770830840462/",
@@ -844,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "-",
+        "stream": "ספיר",
         "flood_date": "",
         "flood_source": "",
         "name": "גב ספיר",
