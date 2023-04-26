@@ -866,7 +866,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ברק",
-        "flood_date": "12.04.23",
+        "flood_date": "11/04/2023",
         "flood_source": "מראה עיניים",
         "name": "גבי ברק",
         "status": "מלאים",
@@ -887,12 +887,12 @@
       "type": "Feature",
       "properties": {
         "stream": "ורדית",
-        "flood_date": "12.04.23",
+        "flood_date": "11/04/2023",
         "flood_source": "https://www.facebook.com/groups/israelsprings/permalink/2335800483265040/?mibextid=Nif5oz",
         "name": "גבי ורדית",
         "status": "מלאים",
-        "date": "12/04/2023",
-        "source": "דיווח מהשטח",
+        "date": "26/04/2023",
+        "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
       },
@@ -908,7 +908,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עשרון",
-        "flood_date": "12.04.23",
+        "flood_date": "11/04/2023",
         "flood_source": "מראה עיניים",
         "name": "גב עשרון",
         "status": "מלא",
