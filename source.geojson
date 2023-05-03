@@ -490,6 +490,27 @@
         "stream": "צין",
         "flood_date": "10/04/2023",
         "flood_source": "מראה עיניים",
+        "name": "גבי קניון צין",
+        "status": "הגב המזרחי מלא",
+        "date": "29/04/2023",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.972796,
+          30.801707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צין",
+        "flood_date": "10/04/2023",
+        "flood_source": "מראה עיניים",
         "name": "גבי צין",
         "status": "יש המון מים תמיד אבל עם זיהום של מפעלי הפוספטים",
         "date": "27/12/2022",
