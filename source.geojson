@@ -469,6 +469,27 @@
         "stream": "צין",
         "flood_date": "10/04/2023",
         "flood_source": "מראה עיניים",
+        "name": "הג'קוזי של הצין",
+        "status": "יבש",
+        "date": "29/04/2023",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.920504,
+          30.826755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צין",
+        "flood_date": "10/04/2023",
+        "flood_source": "מראה עיניים",
         "name": "גבי צין",
         "status": "יש המון מים תמיד אבל עם זיהום של מפעלי הפוספטים",
         "date": "27/12/2022",
