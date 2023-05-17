@@ -466,6 +466,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "עפרן",
+        "flood_date": "15/05/2023",
+        "flood_source": "",
+        "name": "גבי עפרן",
+        "status": "מלא",
+        "date": "15/05/2023",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9214297,
+          30.8768547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "צין",
         "flood_date": "10/04/2023",
         "flood_source": "מראה עיניים",
