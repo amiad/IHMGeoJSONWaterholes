@@ -425,12 +425,12 @@
       "type": "Feature",
       "properties": {
         "stream": "ימין",
-        "flood_date": "09/01/2023",
+        "flood_date": "30/05/2023",
         "flood_source": "מראה עיניים",
         "name": "גבי ימין",
-        "status": "מלאים, הרבה זחלי יתושים",
-        "date": "02/04/2023",
-        "source": "https://www.dropbox.com/s/j1jv144tuger31p/2023-04-02%2008.47.17.jpg?dl=0",
+        "status": "מלאים לגמרי ",
+        "date": "30/05/2023",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -866,12 +866,12 @@
       "type": "Feature",
       "properties": {
         "stream": "פרס",
-        "flood_date": "15/04/2023",
+        "flood_date": "30/05/2023",
         "flood_source": "",
         "name": "גבי פרס",
-        "status": "גבי פרס עם מים ממש מגעילים ומסריחים. במעוק שלפני המפל יבש לגמרי.",
-        "date": "18/05/2023",
-        "source": "מראה עיניים ",
+        "status": "מלא מים",
+        "date": "30/05/2023",
+        "source": "וואטסאפ ",
         "source2": "",
         "notes": ""
       },
