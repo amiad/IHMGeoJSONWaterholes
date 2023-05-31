@@ -29,7 +29,7 @@
         "flood_date": "26/12/2022",
         "flood_source": "טלגרם",
         "name": "",
-        "status": "הגבים מלאים חייב חבל וצריך לשחות, רוב הגבים מסריחים ומעופשים",
+        "status": "",
         "date": "",
         "source": "",
         "source2": "",
@@ -508,9 +508,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "צין",
-        "flood_date": "10/04/2023",
-        "flood_source": "מראה עיניים",
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
         "name": "גבי קניון צין",
         "status": "הגב המזרחי מלא",
         "date": "29/04/2023",
@@ -529,9 +529,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "צין",
-        "flood_date": "10/04/2023",
-        "flood_source": "מראה עיניים",
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
         "name": "גבי צין",
         "status": "יש המון מים תמיד אבל עם זיהום של מפעלי הפוספטים",
         "date": "27/12/2022",
