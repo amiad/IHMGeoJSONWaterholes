@@ -533,7 +533,7 @@
         "flood_date": "",
         "flood_source": "",
         "name": "גבי צין",
-        "status": "יש המון מים תמיד אבל עם זיהום של מפעלי הפוספטים",
+        "status": "מזוהמים בזיהום כימי תמיד",
         "date": "27/12/2022",
         "source": "https://www.facebook.com/100005749562762/videos/2559770830840462/",
         "source2": "",
@@ -614,11 +614,11 @@
       "type": "Feature",
       "properties": {
         "stream": "שרף",
-        "flood_date": "29/11/2022",
+        "flood_date": "30/05/2023",
         "flood_source": "",
         "name": "גבי שרף",
-        "status": "שני גבים מלאים מים נקיים",
-        "date": "30\\05\\23",
+        "status": "מלאים במים עמוקים אבל לא נקיים במיוחד",
+        "date": "21/06/2023",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
