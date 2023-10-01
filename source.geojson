@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "-",
+        "stream": "בורות רמליה",
         "flood_date": "",
         "flood_source": "",
         "name": "בורות רמליה",
@@ -680,9 +680,9 @@
         "flood_date": "28/05/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/6977466035601944/",
         "name": "גב ילק",
-        "status": "מלא מלא",
-        "date": "04/06/2023",
-        "source": "https://www.facebook.com/groups/612273776377079/posts/1380641062873676/",
+        "status": "מלא",
+        "date": "11/08/2023",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
