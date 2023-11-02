@@ -194,8 +194,8 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "01/11/2023",
+        "flood_source": "טלגרם",
         "name": "בריכת צפירה",
         "status": "",
         "date": "",
@@ -964,27 +964,6 @@
         "coordinates": [
           34.8283211,
           30.0724669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "עתק",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "גבי עתק",
-        "status": "",
-        "date": "",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.92017,
-          29.72878
         ]
       }
     }
