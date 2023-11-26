@@ -366,7 +366,7 @@
         "flood_source": "ביקור אישי במקום",
         "name": "גב חצרה",
         "status": "המים ירוקים ולא נעימים",
-        "date": "15.11.2023",
+        "date": "15/11/2023",
         "source": "",
         "source2": "",
         "notes": ""
@@ -825,11 +825,11 @@
       "properties": {
         "stream": "פרס",
         "flood_date": "",
-        "flood_source": "ביקור במקום",
+        "flood_source": "",
         "name": "גבי פרס",
-        "status": "מלאים",
-        "date": ".22/11/23",
-        "source": "",
+        "status": "יבשים או מלוכלכים",
+        "date": "24/11/23",
+        "source": "פייסבוק ",
         "source2": "",
         "notes": ""
       },
