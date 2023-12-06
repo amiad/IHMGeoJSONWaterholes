@@ -173,8 +173,8 @@
       "type": "Feature",
       "properties": {
         "stream": "ערוגות",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "רשות הטבע",
         "name": "מחרס דלל",
         "status": "שטף - לא ברור מה המצב",
         "date": "6.12.23",
