@@ -635,12 +635,12 @@
       "type": "Feature",
       "properties": {
         "stream": "ילק",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/7689626691052538/",
         "name": "גב ילק",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלא חלקית",
+        "date": "06/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7689626691052538/",
         "source2": "",
         "notes": ""
       },
