@@ -47,8 +47,8 @@
       "type": "Feature",
       "properties": {
         "stream": "אשלים",
-        "flood_date": "14/11/2023",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "www.facebook.com/share/rNhHekRUNPhRgQjJ/?mibextid=xfxF2i",
         "name": "גבי אשלים",
         "status": "מלאים",
         "date": "23/11/2023",
@@ -68,12 +68,12 @@
       "type": "Feature",
       "properties": {
         "stream": "הרדוף",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "5/12/23",
+        "flood_source": "https://m.facebook.com/story.php/?id=802002309&story_fbid=10160937351477310",
         "name": "גבי הרדוף",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלאים",
+        "date": "7/12/23",
+        "source": "https://m.facebook.com/story.php/?id=802002309&story_fbid=10160937351477310",
         "source2": "",
         "notes": ""
       },
@@ -114,7 +114,7 @@
         "flood_source": "https://www.facebook.com/avi.gilis/videos/2088944118108412/?idorvanity=175997992415483&mibextid=Nif5oz",
         "name": "גב זוהר",
         "status": "מלא עד הסוףף",
-        "date": "7.12.23",
+        "date": "7/12/23",
         "source": "",
         "source2": "",
         "notes": ""
@@ -155,9 +155,9 @@
         "flood_date": "05/12/2023",
         "flood_source": "פייסבוק",
         "name": "נחל משמר",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלא",
+        "date": "8/12/23",
+        "source": "ביקור במקום",
         "source2": "",
         "notes": ""
       },
@@ -299,8 +299,8 @@
       "type": "Feature",
       "properties": {
         "stream": "גוב",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/11/2023",
+        "flood_source": "https://www.facebook.com/groups/1622055898057836/permalink/3542948385968568/?mibextid=Nif5oz",
         "name": "",
         "status": "",
         "date": "",
@@ -320,8 +320,8 @@
       "type": "Feature",
       "properties": {
         "stream": "זרחן",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "דיווח של מוחמד זנון ",
         "name": "גב זרחן",
         "status": "",
         "date": "",
@@ -341,7 +341,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חווה",
-        "flood_date": "",
+        "flood_date": "05/12/2023",
         "flood_source": "",
         "name": "גב חווה",
         "status": "",
@@ -365,8 +365,8 @@
         "flood_date": "05/12/2023",
         "flood_source": "ביקור אישי במקום",
         "name": "גב חצרה",
-        "status": "המים ירוקים ולא נעימים",
-        "date": "15/11/2023",
+        "status": "מלא",
+        "date": "7/12/2023",
         "source": "",
         "source2": "",
         "notes": ""
@@ -408,7 +408,7 @@
         "flood_source": "https://www.facebook.com/photo.php?fbid=374402525096021&set=p.374402525096021&type=3",
         "name": "גבי ימין",
         "status": "שטף, נראה מלא סחף ",
-        "date": "",
+        "date": "6/12/23",
         "source": "",
         "source2": "",
         "notes": ""
@@ -446,8 +446,8 @@
       "type": "Feature",
       "properties": {
         "stream": "עפרן",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "דיווח של מוחמד זנון",
         "name": "גבי עפרן",
         "status": "",
         "date": "",
@@ -551,8 +551,8 @@
       "type": "Feature",
       "properties": {
         "stream": "שועלים",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "קבוצת ווצאפ",
         "name": "גב עקב",
         "status": "",
         "date": "",
@@ -824,11 +824,11 @@
       "type": "Feature",
       "properties": {
         "stream": "פרס ",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "05/12/2023",
+        "flood_source": "קבוצת ווצאפ",
         "name": "גבי פרס",
-        "status": "יש מים לא הכי נקי אבל היה נחמד",
-        "date": "2/12/23",
+        "status": "מלא. לא עד הסוף ",
+        "date": "8/12/23",
         "source": "טיול",
         "source2": "",
         "notes": ""
@@ -964,27 +964,6 @@
         "coordinates": [
           34.8283211,
           30.0724669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "עתק",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "גבי עתק",
-        "status": "",
-        "date": "",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.92017,
-          29.72878
         ]
       }
     }
