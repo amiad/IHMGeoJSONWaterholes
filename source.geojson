@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "6/12/23",
+        "flood_date": "13/12/23",
         "flood_source": "פייסבוק",
         "name": "גבי חבר",
         "status": "",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ערוגות",
-        "flood_date": "05/12/2023",
+        "flood_date": "13/12/2023",
         "flood_source": "רשות הטבע",
         "name": "מחרס דלל",
         "status": "",
@@ -194,7 +194,7 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "05/12/2023",
+        "flood_date": "13/12/2023",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/7692509150764292/",
         "name": "בריכת צפירה",
         "status": "מלא, מים נקיים",
