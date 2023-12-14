@@ -598,7 +598,7 @@
         "name": "גב שועלים",
         "status": "מים עמוקים ומעולים",
         "date": "09/12/2023",
-        "source": "https://www.facebook.com/groups/myisrael100",
+        "source": "",
         "source2": "",
         "notes": ""
       },
@@ -628,6 +628,27 @@
         "coordinates": [
           35.0285072,
           30.782711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב שרף עליון",
+        "status": "כמעט יבש",
+        "date": "13/12/2023",
+        "source": "https://www.facebook.com/photo/?fbid=10160757646769627&set=pcb.10160757675859627",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.028801,
+          30.763016
         ]
       }
     },
