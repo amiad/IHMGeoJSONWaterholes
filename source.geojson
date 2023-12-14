@@ -593,7 +593,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שרף",
-        "flood_date": "",
+        "flood_date": "שטף",
         "flood_source": "",
         "name": "גבי שרף",
         "status": "כמעט ריקים",
