@@ -278,8 +278,8 @@
       "type": "Feature",
       "properties": {
         "stream": "רחף",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "13/12/2023",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7728739110474629/",
         "name": "גב רחף",
         "status": "",
         "date": "",
@@ -313,6 +313,27 @@
         "coordinates": [
           35.1250641,
           30.9085216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "החלק",
+        "flood_date": "05/12/2023",
+        "flood_source": "",
+        "name": "גבי נחל החלק",
+        "status": "מלאים",
+        "date": "16/12/2023",
+        "source": "ביקור בנקודה",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019138,
+          30.837496
         ]
       }
     },
