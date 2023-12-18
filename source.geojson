@@ -572,7 +572,7 @@
       "type": "Feature",
       "properties": {
         "stream": "צרור",
-        "flood_date": "13/12/2023",
+        "flood_date": "",
         "flood_source": "מלא מים. טיפה ירקרקים",
         "name": "גב צרור",
         "status": "מים מלאים אבל לא צלולים",
@@ -593,7 +593,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שועלים",
-        "flood_date": "05/12/2023",
+        "flood_date": "",
         "flood_source": "קבוצת ווצאפ",
         "name": "גב עקב",
         "status": "",
@@ -635,7 +635,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שרף",
-        "flood_date": "שטף",
+        "flood_date": "",
         "flood_source": "",
         "name": "גבי שרף",
         "status": "מלאים אבל לא נקיים",
@@ -698,7 +698,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ילק",
-        "flood_date": "05/12/2023",
+        "flood_date": "",
         "flood_source": "https://www.facebook.com/groups/myisrael100/posts/7689626691052538/",
         "name": "גב ילק",
         "status": "מלא חלקית",
@@ -740,7 +740,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עודד",
-        "flood_date": "",
+        "flood_date": "שטף",
         "flood_source": "",
         "name": "גב עודד",
         "status": "",
