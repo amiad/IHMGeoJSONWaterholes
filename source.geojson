@@ -613,11 +613,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "שועלים",
+        "stream": "",
         "flood_date": "",
         "flood_source": "קבוצת ווצאפ",
         "name": "גב עקב",
-        "status": "",
+        "status": "שועלים",
         "date": "",
         "source": "",
         "source2": "",
@@ -638,7 +638,7 @@
         "flood_date": "13/12/2023",
         "flood_source": "",
         "name": "גב שועלים",
-        "status": "מלא במים",
+        "status": "",
         "date": "16/12/2023",
         "source": "https://www.facebook.com/groups/myisrael100/posts/7728363093845564/",
         "source2": "",
