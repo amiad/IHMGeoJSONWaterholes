@@ -971,7 +971,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ברק",
-        "flood_date": "",
+        "flood_date": "לא שטף",
         "flood_source": "",
         "name": "גבי ברק",
         "status": "",
@@ -992,7 +992,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ורדית",
-        "flood_date": "",
+        "flood_date": "לא שטף",
         "flood_source": "",
         "name": "גבי ורדית",
         "status": "",
