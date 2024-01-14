@@ -9,7 +9,7 @@
         "flood_source": "טלגרם",
         "name": "גב חלון",
         "status": "מלא חלקית בסחף, יש קצת מים",
-        "date": "12.1.24",
+        "date": "12/1/24",
         "source": "https://www.facebook.com/groups/myisrael100/posts/7759324724082734/?comment_id=7759370884078118",
         "source2": "",
         "notes": ""
@@ -596,9 +596,9 @@
         "flood_date": "",
         "flood_source": "",
         "name": "גב צרור",
-        "status": "מים מלאים אבל לא צלולים",
-        "date": "14/12/2023",
-        "source": "אינסטגרם",
+        "status": "מלא עד גובה ברכים ונקי",
+        "date": "13/01/2024",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7832066316808574/",
         "source2": "",
         "notes": ""
       },
@@ -613,8 +613,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
-        "flood_date": "",
+        "stream": "שועלים",
+        "flood_date": "13/12/2023",
         "flood_source": "קבוצת ווצאפ",
         "name": "גב עקב",
         "status": "שועלים",
@@ -635,7 +635,7 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "13/12/2023",
+        "flood_date": "",
         "flood_source": "",
         "name": "גב שועלים",
         "status": "",
