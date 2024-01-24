@@ -488,8 +488,8 @@
       "type": "Feature",
       "properties": {
         "stream": "מרזבה",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "13/12/2023",
+        "flood_source": "תצפית אישית",
         "name": "עין אום צלח",
         "status": "מלא",
         "date": "",
