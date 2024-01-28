@@ -26,8 +26,8 @@
       "type": "Feature",
       "properties": {
         "stream": "דרגה",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "27/01/2024",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7884339344914604/",
         "name": "",
         "status": "",
         "date": "",
@@ -152,8 +152,8 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "13/12/23",
-        "flood_source": "פייסבוק",
+        "flood_date": "27/1/24",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7885762171438988/",
         "name": "גבי חבר",
         "status": "",
         "date": "",
@@ -173,8 +173,8 @@
       "type": "Feature",
       "properties": {
         "stream": "משמר",
-        "flood_date": "05/12/2023",
-        "flood_source": "פייסבוק",
+        "flood_date": "27/01/2024",
+        "flood_source": "טלגרם",
         "name": "נחל משמר",
         "status": "מלא",
         "date": "15/12/23",
