@@ -407,9 +407,9 @@
         "flood_date": "05/12/2023",
         "flood_source": "",
         "name": "גב חווה",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלא, מים בסדר, הרבה נוצות יונים",
+        "date": "07/02/2024",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -974,8 +974,8 @@
         "flood_date": "לא שטף",
         "flood_source": "",
         "name": "גבי ברק",
-        "status": "",
-        "date": "",
+        "status": "ריק",
+        "date": "31/01/2024",
         "source": "",
         "source2": "",
         "notes": ""
@@ -995,8 +995,8 @@
         "flood_date": "לא שטף",
         "flood_source": "",
         "name": "גבי ורדית",
-        "status": "",
-        "date": "",
+        "status": "ריק",
+        "date": "31/01/2024",
         "source": "",
         "source2": "",
         "notes": ""
@@ -1027,27 +1027,6 @@
         "coordinates": [
           34.9719467,
           29.9152775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "צניפים",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "גב צניפים",
-        "status": "",
-        "date": "",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8283211,
-          30.0724669
         ]
       }
     }
