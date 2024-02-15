@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "27/01/2024",
+        "flood_date": "15/02/2024",
         "flood_source": "פייסבוק",
         "name": "בריכת צפירה",
         "status": "מלא, מים נקיים - יש צורך לשחות כדי להגיע לבריכה שליד המפל",
@@ -278,8 +278,8 @@
       "type": "Feature",
       "properties": {
         "stream": "קינה",
-        "flood_date": "05/12/2023",
-        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/7690579240957283/",
+        "flood_date": "15/02/2024",
+        "flood_source": "https://t.me/c/1285030923/18663",
         "name": "גב קינה",
         "status": "קר ועמוק",
         "date": "18/12/2023",
@@ -510,7 +510,7 @@
       "properties": {
         "stream": "עפרן",
         "flood_date": "05/12/2023",
-        "flood_source": "https://www.facebook.com/groups/myisrael100/posts/7693457430669464/",
+        "flood_source": "https://t.me/hashamba/5241",
         "name": "גבי עפרן",
         "status": "מלאים חלקית. מים יחסית מלוכלכים",
         "date": "13/12/2023",
@@ -530,7 +530,7 @@
       "type": "Feature",
       "properties": {
         "stream": "צין",
-        "flood_date": "",
+        "flood_date": "15/02/2024",
         "flood_source": "",
         "name": "הג'קוזי של הצין",
         "status": "",
