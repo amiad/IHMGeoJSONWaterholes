@@ -279,7 +279,7 @@
       "properties": {
         "stream": "קינה",
         "flood_date": "15/02/2024",
-        "flood_source": "https://t.me/c/1285030923/18663",
+        "flood_source": "",
         "name": "גב קינה",
         "status": "קר ועמוק",
         "date": "18/12/2023",
@@ -656,8 +656,8 @@
       "type": "Feature",
       "properties": {
         "stream": "שרף",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "15/02/2024",
+        "flood_source": "ביקור אישי במקום",
         "name": "גבי שרף",
         "status": "מלאים אבל לא נקיים",
         "date": "13/12/2023",
