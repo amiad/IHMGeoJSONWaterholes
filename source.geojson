@@ -4,27 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "דוד",
-        "flood_date": "27/01/2024",
-        "flood_source": "פייסבוק",
-        "name": "גב חלון",
-        "status": "מלא יחסית נקי",
-        "date": "22/1/24",
-        "source": "https://www.facebook.com/groups/myisrael100/posts/7759324724082734/?comment_id=7759370884078118",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.384513,
-          31.471537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stream": "דרגה",
         "flood_date": "18/02/2024",
         "flood_source": "https://www.facebook.com/share/p/uWtemaPusD1qdGXb/?mibextid=oFDknk",
@@ -88,9 +67,30 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "דוד",
+        "flood_date": "27/01/2024",
+        "flood_source": "פייסבוק",
+        "name": "גב חלון",
+        "status": "מלא יחסית נקי",
+        "date": "22/1/24",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7759324724082734/?comment_id=7759370884078118",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3845129,
+          31.4715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "הרדוף",
-        "flood_date": "05/12/2023",
-        "flood_source": "27/01/2024",
+        "flood_date": "27/02/2024",
+        "flood_source": "https://www.facebook.com/1534743831/videos/367592049455331/",
         "name": "גבי הרדוף",
         "status": "מלאים",
         "date": "7/12/23",
@@ -103,27 +103,6 @@
         "coordinates": [
           35.3009453,
           31.3682919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "דוד",
-        "flood_date": "14/01/2024",
-        "flood_source": "https://m.facebook.com/groups/104202123393566/permalink/1710878049392624/?mibextid=Nif5oz",
-        "name": "גב חלון",
-        "status": "מלא",
-        "date": "6/12/23",
-        "source": "פייסבוק",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.3845129,
-          31.4715366
         ]
       }
     },
@@ -152,8 +131,8 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "",
-        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7885762171438988/",
+        "flood_date": "27/02/2024",
+        "flood_source": "טלגרם",
         "name": "גבי חבר",
         "status": "",
         "date": "",
