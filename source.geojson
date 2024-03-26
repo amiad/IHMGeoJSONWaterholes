@@ -383,8 +383,8 @@
       "type": "Feature",
       "properties": {
         "stream": "חווה",
-        "flood_date": "05/12/2023",
-        "flood_source": "",
+        "flood_date": "",
+        "flood_source": "ביקור אישי במקום",
         "name": "גב חווה",
         "status": "מלא, מים בסדר, הרבה נוצות יונים",
         "date": "07/02/2024",
@@ -678,11 +678,11 @@
       "properties": {
         "stream": "גלד",
         "flood_date": "",
-        "flood_source": "",
+        "flood_source": "ביקור אישי במקום",
         "name": "גב חולית",
-        "status": "מלא חלקית ומאוד מלוכלך",
-        "date": "02/02/2024",
-        "source": "https://m.facebook.com/story.php/?id=100004795837549&story_fbid=2470846573085180",
+        "status": "שלולית קטנה וירוקה",
+        "date": "22/03/2024",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
