@@ -1,0 +1,1034 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "דרגה",
+        "flood_date": "18/02/2024",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/8095946807087189",
+        "name": "",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.386273,
+          31.58182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חצצון",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38287,
+          31.561408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "אשלים",
+        "flood_date": "05/12/2023",
+        "flood_source": "www.facebook.com/share/rNhHekRUNPhRgQjJ/?mibextid=xfxF2i",
+        "name": "גבי אשלים",
+        "status": "הרוב יבש, הגב הכי גדול מלוכלך",
+        "date": "24/03/2024",
+        "source": "טלגרם",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3253547,
+          31.0665641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "דוד",
+        "flood_date": "27/01/2024",
+        "flood_source": "פייסבוק",
+        "name": "גב חלון",
+        "status": "מלא יחסית נקי",
+        "date": "22/1/24",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7759324724082734/?comment_id=7759370884078118",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3845129,
+          31.4715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "הרדוף",
+        "flood_date": "27/02/2024",
+        "flood_source": "https://www.facebook.com/1534743831/videos/367592049455331/",
+        "name": "גבי הרדוף",
+        "status": "",
+        "date": "7/12/23",
+        "source": "https://m.facebook.com/story.php/?id=802002309&story_fbid=10160937351477310",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3009453,
+          31.3682919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זוהר",
+        "flood_date": "",
+        "flood_source": "https://www.facebook.com/avi.gilis/videos/2088944118108412/?idorvanity=175997992415483&mibextid=Nif5oz",
+        "name": "גב זוהר",
+        "status": "רק שלולית",
+        "date": "21/3/24",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345829,
+          31.151249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חבר",
+        "flood_date": "27/02/2024",
+        "flood_source": "טלגרם",
+        "name": "גבי חבר",
+        "status": "מלא",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.332049,
+          31.433278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "משמר",
+        "flood_date": "15/02/2024",
+        "flood_source": "https://t.me/hashamba/5237",
+        "name": "נחל משמר",
+        "status": "מלא",
+        "date": "15/12/23",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7728391540509386/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.347384,
+          31.381188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ערוגות",
+        "flood_date": "18/02/2024",
+        "flood_source": "https://t.me/hashamba/5272",
+        "name": "מחרס דלל",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343034,
+          31.467956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צאלים",
+        "flood_date": "18/02/2024",
+        "flood_source": "",
+        "name": "בריכת צפירה",
+        "status": "מלא, מים נקיים - יש צורך לשחות כדי להגיע לבריכה שליד המפל",
+        "date": "04/02/2024",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277454,
+          31.337498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "https://t.me/hashamba/5272",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29631,
+          31.345018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "",
+        "status": "מלאים",
+        "date": "04/02/2024",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251049,
+          31.3359356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "קינה",
+        "flood_date": "15/02/2024",
+        "flood_source": "",
+        "name": "",
+        "status": "קר ועמוק",
+        "date": "18/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7736131239735416/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1672249,
+          31.1975307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "רחף",
+        "flood_date": "13/12/2023",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7728739110474629/",
+        "name": "גב רחף",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3615624,
+          31.287311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "גוב",
+        "flood_date": "05/12/2023",
+        "flood_source": "https://www.facebook.com/groups/1622055898057836/permalink/3542948385968568/?mibextid=Nif5oz",
+        "name": "",
+        "status": "הגבים מלאים וחלקם מחייבים שחייה",
+        "date": "8/12/23",
+        "source": "https://www.facebook.com/nirfi/posts/pfbid02yZcbFFMQhdfXzUnoniKY6tABoApWy6PhiQwmFURSsE7Frq324EYmsATw4MXGwcA2l",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1250641,
+          30.9085216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "החלק",
+        "flood_date": "05/12/2023",
+        "flood_source": "",
+        "name": "גבי נחל החלק",
+        "status": "כמה גבים מלאים עד גובה מותניים אבל מלאים יתושים",
+        "date": "25/01/2024",
+        "source": "https://www.facebook.com/hoopak.hoopak/posts/pfbid09nf5Ge91P6nhvUPJKvWF9g14pgRM7vg4F83rnEoF98LCtZpVg6fJXvmc5AzttqEel",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019138,
+          30.837496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "זרחן",
+        "flood_date": "05/12/23",
+        "flood_source": "דיווח של מוחמד זנון ",
+        "name": "גב זרחן",
+        "status": "מלא חלקית אבל ירוק",
+        "date": "25/01/2024",
+        "source": "https://www.facebook.com/hoopak.hoopak/posts/pfbid09nf5Ge91P6nhvUPJKvWF9g14pgRM7vg4F83rnEoF98LCtZpVg6fJXvmc5AzttqEel",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.958504,
+          30.8343105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "עין אום תינה",
+        "status": "מלא, נקי ועמוק",
+        "date": "25/01/2024",
+        "source": "https://www.facebook.com/hoopak.hoopak/posts/pfbid09nf5Ge91P6nhvUPJKvWF9g14pgRM7vg4F83rnEoF98LCtZpVg6fJXvmc5AzttqEel",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.944786,
+          30.817783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חווה",
+        "flood_date": "",
+        "flood_source": "ביקור אישי במקום",
+        "name": "גב חווה",
+        "status": "מלא, מים קצת ירוקים, הרבה נוצות יונים",
+        "date": "24/03/2024",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9036674,
+          30.7279053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חצרה",
+        "flood_date": "05/12/2023",
+        "flood_source": "ביקור אישי במקום",
+        "name": "גב חצרה",
+        "status": "מלא",
+        "date": "17/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7731123896902817/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242565,
+          30.933475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חתירה",
+        "flood_date": "05/12/2023",
+        "flood_source": "https://www.facebook.com/photo.php?fbid=374402818429325&set=p.374402818429325&type=3",
+        "name": "עין ירקעם",
+        "status": "מלא",
+        "date": "17/2/2024",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7731123896902817/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0407372,
+          30.9381161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ימין",
+        "flood_date": "05/12/2023",
+        "flood_source": "https://www.facebook.com/photo.php?fbid=374402525096021&set=p.374402525096021&type=3",
+        "name": "גבי ימין",
+        "status": "גבים מלאים - המים מעט ירוקים, דעתי שאפשר להיכנס למים ",
+        "date": "17/2/24",
+        "source": "טיול ",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0731331,
+          30.9439447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "מרזבה",
+        "flood_date": "13/12/2023",
+        "flood_source": "תצפית אישית",
+        "name": "עין אום צלח",
+        "status": "מלא ועמוק עם קצת ירוקת",
+        "date": "29/2/2024",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.037281,
+          30.6984272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עפרן",
+        "flood_date": "05/12/2023*",
+        "flood_source": "https://t.me/hashamba/5241",
+        "name": "גבי עפרן",
+        "status": "מלאים חלקית. מים יחסית מלוכלכים",
+        "date": "13/12/2023",
+        "source": "טיול בנחל",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9214297,
+          30.8768547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צין",
+        "flood_date": "15/02/2024",
+        "flood_source": "",
+        "name": "הג'קוזי של הצין",
+        "status": "ריק  כט שבט",
+        "date": "25/12/2023",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.920504,
+          30.826755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי קניון צין",
+        "status": "יבשים",
+        "date": "08/03/2024",
+        "source": "https://www.facebook.com/photo?fbid=10229589336265054&set=pcb.10229589352585462",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9648056,
+          30.8048191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי צין",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2005087,
+          30.9050715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צרור",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב צרור",
+        "status": "מלא עד גובה ברכים ונקי",
+        "date": "13/01/2024",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7832066316808574/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822567,
+          30.8567238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שועלים",
+        "flood_date": "13/12/2023",
+        "flood_source": "קבוצת ווצאפ",
+        "name": "גב עקב",
+        "status": "שועלים",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9396782,
+          30.9694405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב שועלים",
+        "status": "",
+        "date": "16/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7728363093845564/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9176865,
+          30.9616547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שרף",
+        "flood_date": "15/02/2024",
+        "flood_source": "ביקור אישי במקום",
+        "name": "גבי שרף",
+        "status": "התחתון ירוק אבל סביר, השאר יבשים",
+        "date": "08/03/2024",
+        "source": "https://www.facebook.com/photo/?fbid=10229589333824993&set=pcb.10229589352585462",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0285072,
+          30.782711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב שרף עליון",
+        "status": "מצב טוב",
+        "date": "22/03/2024",
+        "source": "https://www.facebook.com/photo?fbid=10229589335465034&set=pcb.10229589352585462",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.028801,
+          30.763016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "גלד",
+        "flood_date": "",
+        "flood_source": "ביקור אישי במקום",
+        "name": "גב חולית",
+        "status": "שלולית קטנה וירוקה",
+        "date": "22/03/2024",
+        "source": "מראה עיניים",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0460663,
+          30.6339836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ילק",
+        "flood_date": "9/2/24",
+        "flood_source": "ביקור אישי במקום",
+        "name": "גב ילק",
+        "status": "מלא חלקית. גובה ברך. די נקי ",
+        "date": "06/01/2024",
+        "source": "טבילה במקום",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9116173,
+          30.5584507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "נקרות",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "פרסת נקרות",
+        "status": "יבשה ומלאה סחף",
+        "date": "15/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7731717333510140/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9457016,
+          30.5984802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עודד",
+        "flood_date": "שטף",
+        "flood_source": "",
+        "name": "גב עודד",
+        "status": "כמעט יבש",
+        "date": "29/02/2024",
+        "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02MrpbYJdWWXjY7jX3CRspmC7LimrmuWoJcS6hvWVRGQ8y5QB2o5H2XgtMjtnJMFqml&id=100015214260360",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7225564,
+          30.5279403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "-",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "אבן רוח מים",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.845811,
+          30.617008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חדב",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב חדב",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.922761,
+          30.5034417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "חיון",
+        "flood_date": "11/12/2023",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/7707849142563626/?mibextid=Nif5oz",
+        "name": "גבי חיון",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9519574,
+          30.111668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "כרכום",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב כרכום",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7388826,
+          30.2925169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "פארן",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גבי פארן",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8505775,
+          30.2882106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "שגיא",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "הקניון הלבן",
+        "status": "יבש",
+        "date": "24/02/2024",
+        "source": "ביקור במקום",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7318764,
+          30.2086658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "פרס ",
+        "flood_date": "05/12/2023",
+        "flood_source": "קבוצת ווצאפ",
+        "name": "גבי פרס",
+        "status": "מלאים מעט ",
+        "date": "6/3/24",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2886086,
+          31.0094738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צפית",
+        "flood_date": "05/12/2023",
+        "flood_source": "דיווח של ג'מיל אלעטרש",
+        "name": "עין צפית",
+        "status": "מלא, הגב מתחת המעיין מלא ועמוק",
+        "date": "17/02/2023",
+        "source": "ביקור במקום",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253075,
+          31.0170689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ספיר",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב ספיר",
+        "status": "יבש",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1565463,
+          30.6441023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ברק",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "גבי ברק",
+        "status": "ריק",
+        "date": "31/01/2024",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.057738,
+          30.379724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "ורדית",
+        "flood_date": "לא שטף",
+        "flood_source": "",
+        "name": "גבי ורדית",
+        "status": "ריק",
+        "date": "31/01/2024",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.021649,
+          30.349084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עשרון",
+        "flood_date": "11/12/2023",
+        "flood_source": "",
+        "name": "גב עשרון",
+        "status": "מלא וקפוא",
+        "date": "16/12/2023",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/7728699973811876/",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9719467,
+          29.9152775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צניפים",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "גב צניפים",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8283211,
+          30.0724669
+        ]
+      }
+    }
+  ]
+}
