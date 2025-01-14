@@ -89,12 +89,12 @@
       "type": "Feature",
       "properties": {
         "stream": "הרדוף",
-        "flood_date": "",
+        "flood_date": "31/12/2024",
         "flood_source": "",
         "name": "גבי הרדוף",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלאים",
+        "date": "14/01/2025",
+        "source": "https://t.me/hashamba/10697",
         "source2": "",
         "notes": ""
       },
