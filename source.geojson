@@ -26,12 +26,12 @@
       "type": "Feature",
       "properties": {
         "stream": "מזין",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "",
-        "status": "",
-        "date": "",
-        "source": "",
+        "flood_date": "31/12/2024",
+        "flood_source": "וואטסאפ ",
+        "name": "גב מזין",
+        "status": "מלא",
+        "date": "01/01/2025",
+        "source": "וואטסאפ ",
         "source2": "",
         "notes": ""
       },
