@@ -300,7 +300,7 @@
       "properties": {
         "stream": "גוב",
         "flood_date": "",
-        "flood_source": "",
+        "flood_source": "https://www.facebook.com/galnachum/",
         "name": "",
         "status": "ריק",
         "date": "20/12/2024",
@@ -880,27 +880,6 @@
         "coordinates": [
           34.7318764,
           30.2086658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "פרס ",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "גבי פרס",
-        "status": "",
-        "date": "",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2886086,
-          31.0094738
         ]
       }
     },
