@@ -154,10 +154,10 @@
         "stream": "משמר",
         "flood_date": "31/12/2024",
         "flood_source": "",
-        "name": "נחל משמר",
-        "status": "גבים רדודים, רק גב אחד עמוק",
-        "date": "26/01/2025",
-        "source": "https://www.facebook.com/groups/myisrael100/permalink/9950816821600169/",
+        "name": "גבי נחל משמר",
+        "status": "יבש",
+        "date": "01/03/2025",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "גלד",
         "flood_date": "",
         "flood_source": "",
         "name": "גב חולית",
@@ -697,7 +697,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "30.763016-/-",
+        "stream": "ילק",
         "flood_date": "",
         "flood_source": "",
         "name": "גב ילק",
