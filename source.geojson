@@ -68,7 +68,7 @@
       "type": "Feature",
       "properties": {
         "stream": "דוד",
-        "flood_date": "31/12/2024",
+        "flood_date": "07/03/2025",
         "flood_source": "https://www.facebook.com/share/v/18yo7RhDH2/",
         "name": "גב חלון",
         "status": "חצי מלא, יש גם סחף כולל גבים בקניון היבש",
@@ -110,8 +110,8 @@
       "type": "Feature",
       "properties": {
         "stream": "זוהר",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "07/03/2025",
+        "flood_source": "וואטסאפ",
         "name": "גב זוהר",
         "status": "",
         "date": "",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חבר",
-        "flood_date": "06/02/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "טלגרם",
         "name": "גבי חבר",
         "status": "",
@@ -152,7 +152,7 @@
       "type": "Feature",
       "properties": {
         "stream": "משמר",
-        "flood_date": "31/12/2024",
+        "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "גבי נחל משמר",
         "status": "יבש",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ערוגות",
-        "flood_date": "06/02/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "טלגרם",
         "name": "מחרס דלל",
         "status": "גבים מלאים ועמוקים",
@@ -194,7 +194,7 @@
       "type": "Feature",
       "properties": {
         "stream": "צאלים",
-        "flood_date": "06/02/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "https://www.facebook.com/share/p/1BSjkcTTWZ/",
         "name": "בריכת צפירה",
         "status": "מלאה ונקייה",
@@ -278,7 +278,7 @@
       "type": "Feature",
       "properties": {
         "stream": "רחף",
-        "flood_date": "",
+        "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "גב רחף",
         "status": "ריק",
@@ -425,7 +425,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חתירה",
-        "flood_date": "23/01/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "https://www.facebook.com/share/r/18TPLnSXZH/",
         "name": "עין ירקעם",
         "status": "מלא, אבל נראה קצת בוצי",
@@ -450,7 +450,7 @@
         "flood_source": "וואטסאפ ",
         "name": "גבי ימין",
         "status": "יש מים עמוקים, מעט מסריחים",
-        "date": "26/01/2025",
+        "date": "06/03/2025",
         "source": "https://www.facebook.com/groups/myisrael100/posts/9949482591733592/",
         "source2": "",
         "notes": ""
