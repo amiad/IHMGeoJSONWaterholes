@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stream": "קדרון (מזוהם)",
-        "flood_date": "06/02/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "https://www.facebook.com/story.php?story_fbid=10007449529270231&id=175997992415483 ",
         "name": "",
         "status": "",
@@ -111,7 +111,7 @@
       "properties": {
         "stream": "זוהר",
         "flood_date": "07/03/2025",
-        "flood_source": "וואטסאפ",
+        "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/23963350853253530/?mibextid=rS40aB7S9Ucbxw6v",
         "name": "גב זוהר",
         "status": "",
         "date": "",
@@ -257,8 +257,8 @@
       "type": "Feature",
       "properties": {
         "stream": "קינה",
-        "flood_date": "07/02/2025",
-        "flood_source": "",
+        "flood_date": "07/03/2025",
+        "flood_source": "מראה עיניים",
         "name": "גב קינה",
         "status": "מלא ונקי יחסית ויש עוד הרבה גבים בנחל",
         "date": "07/02/2025",
@@ -593,7 +593,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שועלים",
-        "flood_date": "05/02/2025",
+        "flood_date": "07/03/2025",
         "flood_source": "מראה עיניים",
         "name": "גב עקב",
         "status": "",
@@ -698,11 +698,11 @@
       "type": "Feature",
       "properties": {
         "stream": "ילק",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "07/03/2025",
+        "flood_source": "מראה עיניים",
         "name": "גב ילק",
-        "status": "",
-        "date": "",
+        "status": "מלא",
+        "date": "08/02/2025",
         "source": "",
         "source2": "",
         "notes": ""
@@ -720,10 +720,10 @@
       "properties": {
         "stream": "נקרות",
         "flood_date": "",
-        "flood_source": "",
+        "flood_source": "וואטסאפ",
         "name": "פרסת נקרות",
         "status": "ריק",
-        "date": "08/02/2025",
+        "date": "07/03/2025",
         "source": "",
         "source2": "",
         "notes": ""
@@ -845,8 +845,8 @@
       "type": "Feature",
       "properties": {
         "stream": "פארן",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "07/03/2025",
+        "flood_source": "וואטסאפ",
         "name": "גבי פארן",
         "status": "",
         "date": "",
@@ -929,7 +929,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ברק",
-        "flood_date": "",
+        "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "גבי ברק",
         "status": "ריקים",
