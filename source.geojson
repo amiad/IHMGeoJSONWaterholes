@@ -90,11 +90,11 @@
       "properties": {
         "stream": "הרדוף",
         "flood_date": "06/02/2025",
-        "flood_source": "טלגרם",
+        "flood_source": "",
         "name": "גבי הרדוף",
         "status": "מלאים",
-        "date": "14/01/2025",
-        "source": "https://t.me/hashamba/10697",
+        "date": "09/03/2025",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -173,8 +173,8 @@
       "type": "Feature",
       "properties": {
         "stream": "ערוגות",
-        "flood_date": "07/03/2025",
-        "flood_source": "טלגרם",
+        "flood_date": "10/03/2025",
+        "flood_source": "מראה עיניים",
         "name": "מחרס דלל",
         "status": "גבים מלאים ועמוקים",
         "date": "07/01/2025",
