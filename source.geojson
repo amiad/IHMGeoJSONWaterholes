@@ -470,7 +470,7 @@
         "flood_date": "",
         "flood_source": "",
         "name": "עין אום צלח",
-        "status": "מים ירוקים מלוכלכים עם פגרים",
+        "status": "מים ירוקים מלוכלכים עם פגרים (אני צללתי ולא מצאתי פגרים) ",
         "date": "12/12/2024",
         "source": "",
         "source2": "",
@@ -512,7 +512,7 @@
         "flood_date": "",
         "flood_source": "",
         "name": "הג'קוזי של הצין",
-        "status": "",
+        "status": "ריק",
         "date": "",
         "source": "",
         "source2": "",
@@ -659,7 +659,7 @@
         "flood_date": "",
         "flood_source": "",
         "name": "גב שרף עליון",
-        "status": "",
+        "status": "מלא",
         "date": "",
         "source": "",
         "source2": "",
@@ -762,7 +762,7 @@
       "properties": {
         "stream": "-",
         "flood_date": "",
-        "flood_source": "מראה עיניים",
+        "flood_source": "",
         "name": "אבן רוח מים",
         "status": "ריק",
         "date": "06/03/2025",
@@ -886,27 +886,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "צפית",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "עין צפית",
-        "status": "מים של שנה שעברה עומק 2 מטר. ירוקים אבל נקיים",
-        "date": "20/12/2024",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2253075,
-          31.0170689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stream": "ספיר",
         "flood_date": "",
         "flood_source": "",
@@ -922,6 +901,27 @@
         "coordinates": [
           35.1565463,
           30.6441023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "צפית",
+        "flood_date": "",
+        "flood_source": "",
+        "name": "עין צפית",
+        "status": "מים של שנה שעברה עומק 2 מטר. ירוקים אבל נקיים",
+        "date": "20/12/2024",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253075,
+          31.0170689
         ]
       }
     },
