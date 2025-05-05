@@ -68,8 +68,8 @@
       "type": "Feature",
       "properties": {
         "stream": "דוד",
-        "flood_date": "07/03/2025",
-        "flood_source": "",
+        "flood_date": "04/05/2025",
+        "flood_source": "פייסבוק",
         "name": "גב חלון",
         "status": "חצי מלא, יש גם סחף כולל גבים בקניון היבש",
         "date": "01/01/2025",
@@ -593,10 +593,10 @@
       "type": "Feature",
       "properties": {
         "stream": "שועלים",
-        "flood_date": "07/03/2025",
+        "flood_date": "04/05/2025",
         "flood_source": "מראה עיניים",
         "name": "גב עקב",
-        "status": "",
+        "status": "ריק",
         "date": "",
         "source": "",
         "source2": "",
@@ -698,7 +698,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ילק",
-        "flood_date": "07/03/2025",
+        "flood_date": "04/05/2025",
         "flood_source": "מראה עיניים",
         "name": "גב ילק",
         "status": "מלא",
@@ -719,11 +719,11 @@
       "type": "Feature",
       "properties": {
         "stream": "נקרות",
-        "flood_date": "",
-        "flood_source": "וואטסאפ",
+        "flood_date": "04/05/2025",
+        "flood_source": "מראה עינים ",
         "name": "פרסת נקרות",
         "status": "ריק",
-        "date": "07/03/2025",
+        "date": "05/05/2025",
         "source": "",
         "source2": "",
         "notes": ""
