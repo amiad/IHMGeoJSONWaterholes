@@ -702,7 +702,7 @@
         "flood_source": "מראה עיניים",
         "name": "גב ילק",
         "status": "מלא",
-        "date": "15/03/2025",
+        "date": "04/05/2025",
         "source": "פייסבוק",
         "source2": "",
         "notes": ""
@@ -720,10 +720,10 @@
       "properties": {
         "stream": "נקרות",
         "flood_date": "04/05/2025",
-        "flood_source": "מראה עינים ",
+        "flood_source": "זלזניק",
         "name": "פרסת נקרות",
         "status": "ריק",
-        "date": "05/05/2025",
+        "date": "04/05/2025",
         "source": "",
         "source2": "",
         "notes": ""
@@ -782,11 +782,11 @@
       "type": "Feature",
       "properties": {
         "stream": "חדב",
-        "flood_date": "",
-        "flood_source": "ראייה",
+        "flood_date": "04/05/2025",
+        "flood_source": "ערן משיח",
         "name": "גב חדב",
         "status": "מלא, מים טובים.",
-        "date": "28/01/2025",
+        "date": "04/05/2025",
         "source": "",
         "source2": "",
         "notes": ""
@@ -971,7 +971,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עשרון",
-        "flood_date": "06/05/2025",
+        "flood_date": "04/05/2025",
         "flood_source": "https://www.facebook.com/share/p/1BF8xn7iXX/",
         "name": "גב עשרון",
         "status": "",
@@ -1013,7 +1013,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עתק",
-        "flood_date": "06/05/2025",
+        "flood_date": "04/05/2025",
         "flood_source": "https://www.facebook.com/share/p/1BF8xn7iXX/",
         "name": "גבי עתק",
         "status": "מלא ",
