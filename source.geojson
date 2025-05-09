@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "הרדוף",
+        "stream": "זוהר",
         "flood_date": "06/02/2025",
         "flood_source": "https://www.facebook.com/share/v/18yo7RhDH2/",
         "name": "גבי הרדוף",
@@ -109,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "זוהר",
+        "stream": "חבר",
         "flood_date": "07/03/2025",
         "flood_source": "https://www.facebook.com/groups/myisrael100/permalink/23963350853253530/?mibextid=rS40aB7S9Ucbxw6v",
         "name": "גב זוהר",
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "חבר",
+        "stream": "חלמיש",
         "flood_date": "07/03/2025",
         "flood_source": "טלגרם",
         "name": "גבי חבר",
@@ -151,7 +151,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "משמר",
+        "stream": "ערוגות",
         "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "גבי נחל משמר",
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "ערוגות",
+        "stream": "צאלים",
         "flood_date": "04/05/2025",
         "flood_source": "זלזניק",
         "name": "מחרס דלל",
@@ -193,13 +193,13 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "צאלים",
+        "stream": "",
         "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "בריכת צפירה",
         "status": "מלאה ונקייה",
-        "date": "13/02/2025",
-        "source": "מראה עיניים",
+        "date": "08/05/2025",
+        "source": "פייסקוב",
         "source2": "",
         "notes": ""
       },
@@ -218,9 +218,9 @@
         "flood_date": "",
         "flood_source": "",
         "name": "בריכת נעמה",
-        "status": "חצי מלאה, הרבה סחף",
-        "date": "13/02/2025",
-        "source": "מראה עיניים",
+        "status": "כמעט ריקה",
+        "date": "08/05/2025",
+        "source": "פייסבוק",
         "source2": "",
         "notes": ""
       },
@@ -617,8 +617,8 @@
         "flood_date": "",
         "flood_source": "",
         "name": "גב שועלים",
-        "status": "מלא",
-        "date": "01/03/2025",
+        "status": "שאריות, לא שטף במאי אלא רק בפב׳",
+        "date": "09/05/2025",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -1017,8 +1017,8 @@
         "flood_source": "https://www.facebook.com/share/p/1BF8xn7iXX/",
         "name": "גבי עתק",
         "status": "מלא ונקי",
-        "date": "03/03/2025",
-        "source": "מראה עיניים",
+        "date": "06/05/2025",
+        "source": "פייסבוק",
         "source2": "",
         "notes": ""
       },
