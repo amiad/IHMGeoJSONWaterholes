@@ -467,11 +467,11 @@
       "type": "Feature",
       "properties": {
         "stream": "מרזבה",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "04/05/2025",
+        "flood_source": "ווצאפ",
         "name": "עין אום צלח",
-        "status": "מים ירוקים מלוכלכים עם פגרים (אני צללתי ולא מצאתי פגרים) ",
-        "date": "12/12/2024",
+        "status": "מים טובים ",
+        "date": "10/05/2025",
         "source": "",
         "source2": "",
         "notes": ""
