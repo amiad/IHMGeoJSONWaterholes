@@ -174,7 +174,7 @@
       "properties": {
         "stream": "צאלים",
         "flood_date": "04/05/2025",
-        "flood_source": "זלזניק",
+        "flood_source": "מראה עיניים",
         "name": "מחרס דלל",
         "status": "גבים מלאים ועמוקים",
         "date": "07/01/2025",
@@ -194,12 +194,12 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "07/03/2025",
+        "flood_date": "20/03/2025",
         "flood_source": "",
         "name": "בריכת צפירה",
         "status": "מלאה ונקייה",
-        "date": "08/05/2025",
-        "source": "פייסקוב",
+        "date": "16/05/2025",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -220,7 +220,7 @@
         "name": "בריכת נעמה",
         "status": "כמעט ריקה",
         "date": "08/05/2025",
-        "source": "פייסבוק",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -237,11 +237,11 @@
       "properties": {
         "stream": "",
         "flood_date": "",
-        "flood_source": "",
+        "flood_source": "מראה עיניים",
         "name": "גבי צאלים עליון",
-        "status": "עשרות גבים מלאים לגמרי או חלקית וצלולים",
-        "date": "20/04/2025",
-        "source": "https://www.facebook.com/share/p/1E54spmoKW/",
+        "status": "גבים מלאים קצת ירוקים. 3 מעבר בשחיה קצרה.",
+        "date": "16/05/2025",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
