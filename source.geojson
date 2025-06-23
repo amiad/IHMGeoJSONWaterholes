@@ -260,7 +260,7 @@
         "flood_date": "07/03/2025",
         "flood_source": "מראה עיניים",
         "name": "גב קינה",
-        "status": "הגב המרכזי מלא, נקי ועמוק (לפחות 2 מטר עומק), יש עוד גב גדול ומלא סמוך אליו, מספר גבים צנועים בתוואי הנחל",
+        "status": "",
         "date": "25/04/2025",
         "source": "מראה עיניים",
         "source2": "",
@@ -281,8 +281,8 @@
         "flood_date": "07/03/2025",
         "flood_source": "",
         "name": "גב רחף",
-        "status": "ריק",
-        "date": "08/02/2025",
+        "status": "",
+        "date": "",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -302,7 +302,7 @@
         "flood_date": "23/01/2025",
         "flood_source": "",
         "name": "",
-        "status": "2 גבים בגובה ברכיים, גב אחד בגובה כתפיים",
+        "status": "",
         "date": "02/04/2025",
         "source": "מראה עיניים",
         "source2": "",
@@ -466,7 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "מרזבה",
+        "stream": "",
         "flood_date": "04/05/2025",
         "flood_source": "ווצאפ",
         "name": "עין אום צלח",
@@ -487,7 +487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "עפרן",
+        "stream": "",
         "flood_date": "",
         "flood_source": "",
         "name": "גבי עפרן",
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "צין",
+        "stream": "2 גבים בגובה ברכיים, גב אחד בגובה כתפיים",
         "flood_date": "",
         "flood_source": "",
         "name": "הג'קוזי של הצין",
@@ -529,7 +529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "מלא",
         "flood_date": "",
         "flood_source": "",
         "name": "גבי קניון צין",
