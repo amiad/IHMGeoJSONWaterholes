@@ -319,7 +319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "החלק",
         "flood_date": "",
         "flood_source": "מראה עיניים",
         "name": "גבי נחל החלק",
@@ -403,7 +403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "חצרה",
         "flood_date": "",
         "flood_source": "",
         "name": "גב חצרה",
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "חצרה",
+        "stream": "חתירה",
         "flood_date": "",
         "flood_source": "",
         "name": "עין ירקעם",
