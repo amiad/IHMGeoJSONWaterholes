@@ -466,7 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "מרזבה",
         "flood_date": "04/05/2025",
         "flood_source": "ווצאפ",
         "name": "עין אום צלח",
@@ -487,7 +487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "",
+        "stream": "עפרן",
         "flood_date": "",
         "flood_source": "",
         "name": "גבי עפרן",
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "2 גבים בגובה ברכיים, גב אחד בגובה כתפיים",
+        "stream": "צין",
         "flood_date": "",
         "flood_source": "",
         "name": "הג'קוזי של הצין",
@@ -529,7 +529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "מלא",
+        "stream": "",
         "flood_date": "",
         "flood_source": "",
         "name": "גבי קניון צין",
