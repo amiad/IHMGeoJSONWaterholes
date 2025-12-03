@@ -15,14 +15,14 @@ import csv
 
 header = ["stream","flood_date","flood_source","name","status","date","source","source2","notes","Latitude","Longitude"]
 
+if reader:
+    reader[0] = header
+
 with open("floods.tsv", newline="", encoding="utf-8") as tsvfile, \
      open("floods.csv", "w", newline="", encoding="utf-8") as csvfile:
     
     reader = csv.reader(tsvfile, delimiter="\t")
     writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
-    
-    # כותבים את הכותרת
-    writer.writerow(header)
     
     # כותבים את כל השורות
     for row in reader:
