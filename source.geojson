@@ -151,6 +151,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "משמר",
+        "flood_date": "",
+        "flood_source": "מראה עיניים",
+        "name": "",
+        "status": "כמה גבים קטנים מלאים מים שחורים, כנראה מגשם מקומי ",
+        "date": "19/11/2025",
+        "source": "https://www.facebook.com/groups/myisrael100/posts/26079208125001115/?__cft__[0]=AZWwyQRczLbMrW2eTQIRtBqhJcXlh2GdNl3DC4LlsKo88gojAUOKsoeEKkuvBZ5bep_pQitJ6kyVXIgwR22Q2mDW8ndDwyOpgIJoy1ZY5xyXBIh-gIzfxlb18zlVU1cA2XF-AewuTLyeSthZAc9z_Ywo&__tn__=%2CO%2CP-R",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.347384,
+          31.381188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ערוגות",
         "flood_date": "15/11/2025",
         "flood_source": "https://www.facebook.com/share/p/1FC9HqzWiq/",
@@ -164,8 +185,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.347384,
-          31.381188
+          35.343034,
+          31.467956
         ]
       }
     },
@@ -185,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.343034,
-          31.467956
+          35.277454,
+          31.3374989
         ]
       }
     },
@@ -206,27 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.277454,
-          31.3374989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "",
-        "flood_date": "",
-        "flood_source": "",
-        "name": "גבי צאלים עליון",
-        "status": "",
-        "date": "",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           35.29631,
           31.345018
         ]
@@ -235,13 +235,13 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "קינה",
-        "flood_date": "",
+        "stream": "רחף",
+        "flood_date": "לא שטף!",
         "flood_source": "",
-        "name": "גב קינה",
-        "status": "חצי מלא, הנחל שטף חלש",
-        "date": "28/11/2025",
-        "source": "https://www.facebook.com/share/p/1BM5W5PYSJ/",
+        "name": "גב רחף",
+        "status": "  ",
+        "date": "",
+        "source": "",
         "source2": "",
         "notes": ""
       },
@@ -256,11 +256,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stream": "רחף",
-        "flood_date": "לא שטף!",
+        "stream": "שפן",
+        "flood_date": "",
         "flood_source": "",
-        "name": "גב רחף",
-        "status": "  ",
+        "name": "",
+        "status": "",
         "date": "",
         "source": "",
         "source2": "",
