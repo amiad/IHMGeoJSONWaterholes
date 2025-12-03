@@ -1,46 +1,38 @@
 #!/bin/bash
-set -euo pipefail
 
-url="https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS_Tl3rSas/export?format=csv&gid=0&range=A4:M100&headers=0"
+url="https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS_Tl3rSas/export?format=tsv&gid=0&range=A4:M100&headers=0"
+
+tsv="floods.tsv"
 csv="floods.csv"
-head="stream,flood_date,flood_source,name,status,date,source,source2,notes,Latitude,Longitude"
+geojson="source.geojson"
 
-pushd "$(dirname "$0")" > /dev/null
-git checkout main
-git pull
+# הורדת TSV
+wget -O "$tsv" "$url"
 
-wget -q "$url" -O "$csv"
+# המרה ל‑CSV עם כותרת ומרכאות מסביב לכל השדות
+python3 - <<'EOF'
+import csv
 
-# 1. החלפת שורת כותרת
-sed -i "1s|.*|$head|" "$csv"
+header = ["stream","flood_date","flood_source","name","status","date","source","source2","notes","Latitude","Longitude"]
 
-# 2. תיקון CSV שבור (שורות מפוצלות, מרכאות בעייתיות)
-python3 fix_csv.py "$csv"
+with open("floods.tsv", newline="", encoding="utf-8") as tsvfile, \
+     open("floods.csv", "w", newline="", encoding="utf-8") as csvfile:
+    
+    reader = csv.reader(tsvfile, delimiter="\t")
+    writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
+    
+    # כותבים את הכותרת
+    writer.writerow(header)
+    
+    # כותבים את כל השורות
+    for row in reader:
+        writer.writerow(row)
+EOF
 
-# 3. מילוי אוטומטי (forward-fill) בעמודות מידע שהיה ממוזג
-#    כאן: stream (עמודה 1), flood_date (2), flood_source (3)
-awk -F, '
-BEGIN { OFS="," }
-NR==1 { print; next }
+# המרה ל‑GeoJSON
+./node_modules/csv2geojson/csv2geojson --lat Latitude --lon Longitude "$csv" > "$geojson"
 
-{
-    for (i=1; i<=3; i++) {
-        if ($i == "") $i = last[i]
-        else last[i] = $i
-    }
-    print
-}
-' "$csv" > tmp && mv tmp "$csv"
-
-# 4. סינון שורות ללא קואורדינטות תקינות
-awk -F, 'NR==1 || ($10 != "" && $11 != "")' "$csv" > filtered.csv
-mv filtered.csv "$csv"
-
-# 5. יצירת GeoJSON
-./node_modules/csv2geojson/csv2geojson \
-    --lat Latitude --lon Longitude "$csv" > source.geojson
-
-git add source.geojson "$csv"
+# אופציונלי: git
+git add "$csv" "$geojson"
 git commit -m "update source.geojson $(date +%Y-%m-%d-%R)"
 git push
-popd > /dev/null
