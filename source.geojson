@@ -48,7 +48,7 @@
       "properties": {
         "stream": "אשלים",
         "flood_date": "14/11/2025",
-        "flood_source": "מראה עיניים",
+        "flood_source": "טלגרם",
         "name": "גבי אשלים",
         "status": "מלאים",
         "date": "17/11/2025",
@@ -69,7 +69,7 @@
       "properties": {
         "stream": "דוד",
         "flood_date": "14/11/2025",
-        "flood_source": "מראה עיניים",
+        "flood_source": "טלגרם",
         "name": "גב חלון",
         "status": "מלא ועמוק",
         "date": "21/11/2025",
@@ -90,7 +90,7 @@
       "properties": {
         "stream": "הרדוף",
         "flood_date": "14/11/2025",
-        "flood_source": "מראה עיניים",
+        "flood_source": "טלגרם",
         "name": "גבי הרדוף",
         "status": "יבש",
         "date": "30/11/2025",
