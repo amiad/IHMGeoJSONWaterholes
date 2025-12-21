@@ -1,0 +1,58 @@
+name: Update Waterholes Data
+
+on:
+  # Run every 10 minutes to match 'OnUnitActiveSec=10min' in waterholes-update.timer
+  schedule:
+    - cron: '*/10 * * * *'
+  # Allow manual trigger via GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install -g csv2geojson
+
+      - name: Run update script
+        run: |
+          chmod +x update_geojson.sh
+          ./update_geojson.sh
+
+      - name: Check for changes and Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage the specific files
+          git add floods.tsv floods.csv source.geojson
+
+          # If no changes are detected, exit successfully immediately
+          if git diff --cached --quiet; then
+            echo "No changes detected. Skipping commit."
+            exit 0
+          fi
+
+          # If we are here, changes were detected
+          TIMESTAMP=$(date +'%Y-%m-%d-%H:%M')
+          
+          echo "Changes detected. Committing..."
+          git commit -m "update source.geojson $TIMESTAMP"
+          git push
