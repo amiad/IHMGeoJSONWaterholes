@@ -23,18 +23,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install -g csv2geojson
-
       - name: Run update script
-        run: |
-          chmod +x update_geojson.sh
-          ./update_geojson.sh
+        run: ./update_geojson --no-commit
 
       - name: Check for changes and Commit
         run: |
