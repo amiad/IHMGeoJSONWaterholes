@@ -1,0 +1,144 @@
+#!/usr/bin/env python3
+"""
+Update GeoJSON and CSV files from the original TSV source.
+
+Usage:
+  update_geojson [--url=<url>] [--no-commit]
+  update_geojson (-h | --help)
+
+Options:
+  -h --help      Show this screen.
+  --url=<url>    Source TSV URL.
+  --no-commit    Skip git commit and push operations.
+"""
+
+import csv
+import importlib
+import json
+import subprocess
+import sys
+import urllib.request
+from datetime import datetime
+
+def ensure_package(package):
+  """Ensures that the specified package is installed and returns it."""
+  try:
+    return importlib.import_module(package)
+  except ImportError:
+    print(f"Installing {package}...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+    return importlib.import_module(package)
+
+docopt_module = ensure_package("docopt")
+docopt = docopt_module.docopt
+
+DEFAULT_URL = "https://docs.google.com/spreadsheets/d/1BbT762qaYilLnwGD7sJDo8sfs_Y5ExjvixS_Tl3rSas/export?format=tsv&gid=0&range=A4:M100&headers=0"
+
+HEADER = [
+  "stream", "flood_date", "flood_source", "name", "status",
+  "date", "source", "source2", "notes", "Latitude", "Longitude"
+]
+
+def download_data(url, output_path):
+  """Downloads data from the specified URL to the output path."""
+  print(f"Downloading data from {url}...")
+  try:
+    with urllib.request.urlopen(url) as response, open(output_path, 'wb') as out_file:
+      out_file.write(response.read())
+  except Exception as e:
+    sys.exit(f"Error downloading file: {e}")
+
+def read_tsv_data(input_file):
+  """Reads the TSV file and yields rows, skipping the original header."""
+  with open(input_file, newline="", encoding="utf-8") as tsvfile:
+    reader = csv.reader(tsvfile, delimiter="\t")
+    try:
+      next(reader)
+    except StopIteration:
+      pass
+    yield from reader
+
+def write_csv_file(output_file, rows):
+  """Writes the processed data to a CSV file with the standard header."""
+  with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
+    writer.writerow(HEADER)
+    for row in rows:
+      writer.writerow(row)
+
+def convert_row_to_feature(row):
+  """Converts a single CSV row into a GeoJSON feature."""
+  try:
+    data = dict(zip(HEADER, row))
+    lat = float(data.get("Latitude", 0))
+    lon = float(data.get("Longitude", 0))
+    if lat == 0 and lon == 0:
+      return None
+    
+    # Remove geometry fields from properties
+    if "Latitude" in data:
+      del data["Latitude"]
+    if "Longitude" in data:
+      del data["Longitude"]
+
+    return {
+      "type": "Feature",
+      "properties": data,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [lon, lat]
+      }
+    }
+  except ValueError:
+    return None
+
+def generate_geojson(rows):
+  """Generates a FeatureCollection dictionary from the data rows."""
+  features = []
+  for row in rows:
+    feature = convert_row_to_feature(row)
+    if feature:
+      features.append(feature)
+  return {
+    "type": "FeatureCollection",
+    "features": features
+  }
+
+def write_geojson_file(output_file, geojson_data):
+  """Writes the GeoJSON data to a file."""
+  with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(geojson_data, f, ensure_ascii=False, indent=2)
+
+def git_update(skip_commit):
+  """Commits and pushes changes unless skip_commit is True."""
+  if skip_commit:
+    print("Skipping git operations.")
+    return
+  timestamp = datetime.now().strftime("%Y-%m-%d-%H:%M")
+  message = f"update source.geojson {timestamp}"
+  print("Running git operations...")
+  subprocess.run(["git", "add", "floods.tsv", "floods.csv", "source.geojson"], check=False)
+  subprocess.run(["git", "commit", "-m", message], check=False)
+  print("Pushing to remote...")
+  subprocess.run(["git", "push"], check=False)
+
+def main():
+  """Main entry point for the script."""
+  args = docopt(__doc__)
+  url = args["--url"] or DEFAULT_URL
+  skip_commit = args["--no-commit"]
+  if url == "PLACEHOLDER_URL_FROM_ORIGINAL_SCRIPT":
+    print("Warning: DEFAULT_URL variable is not set in the script.")
+  tsv_path = "floods.tsv"
+  csv_path = "floods.csv"
+  geojson_path = "source.geojson"
+  download_data(url, tsv_path)
+  rows = list(read_tsv_data(tsv_path))
+  write_csv_file(csv_path, rows)
+  geojson_data = generate_geojson(rows)
+  write_geojson_file(geojson_path, geojson_data)
+  print(f"Successfully converted {tsv_path} to {csv_path} and {geojson_path}")
+  git_update(skip_commit)
+
+if __name__ == "__main__":
+  main()
