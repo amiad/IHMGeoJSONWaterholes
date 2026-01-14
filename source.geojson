@@ -551,7 +551,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שועלים",
-        "flood_date": "15/12/2025",
+        "flood_date": "14/01/2026",
         "flood_source": "מראה עיניים",
         "name": "גב עקב",
         "status": "מלא",
@@ -576,7 +576,7 @@
         "flood_source": "",
         "name": "גב שועלים",
         "status": "מלא",
-        "date": "15/12/2025",
+        "date": "14/01/2026",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
