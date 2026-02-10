@@ -299,10 +299,10 @@
       "type": "Feature",
       "properties": {
         "stream": "חצרה",
-        "flood_date": "10/12/2025",
-        "flood_source": "",
+        "flood_date": "10.2.2026",
+        "flood_source": "מראה עיניים",
         "name": "גב חצרה",
-        "status": "מלא",
+        "status": "ריק",
         "date": "",
         "source": "",
         "source2": "",
