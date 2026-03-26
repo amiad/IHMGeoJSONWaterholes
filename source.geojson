@@ -194,8 +194,8 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "25/03/2026",
+        "flood_source": "https://www.facebook.com/share/p/17jgXk9boG/",
         "name": "בריכת נעמה",
         "status": "מלאה לגמרי ועמוקה",
         "date": "01/01/2026",
@@ -404,7 +404,7 @@
       "type": "Feature",
       "properties": {
         "stream": "זרחן",
-        "flood_date": "",
+        "flood_date": "18/03/2026",
         "flood_source": "",
         "name": "גב זרחן",
         "status": "מלא מים ",
@@ -425,7 +425,7 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
+        "flood_date": "18/12/2025",
         "flood_source": "",
         "name": "עין אום תינה",
         "status": "מלא",
@@ -509,7 +509,7 @@
       "type": "Feature",
       "properties": {
         "stream": "עפרן",
-        "flood_date": "",
+        "flood_date": "19/12/2025",
         "flood_source": "",
         "name": "גבי עפרן",
         "status": "מלא",
@@ -530,7 +530,7 @@
       "type": "Feature",
       "properties": {
         "stream": "דרוך",
-        "flood_date": "",
+        "flood_date": "22/03/2026",
         "flood_source": "",
         "name": "גב דרוך",
         "status": "מלא",
@@ -593,8 +593,8 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "14/01/2026",
+        "flood_source": "מראה עיניים",
         "name": "גב שועלים",
         "status": "מלא",
         "date": "14/01/2026",
@@ -719,7 +719,7 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
+        "flood_date": "29/11/2025",
         "flood_source": "",
         "name": "גב שרף עליון",
         "status": "",
@@ -1013,7 +1013,7 @@
       "type": "Feature",
       "properties": {
         "stream": "שגיא",
-        "flood_date": "",
+        "flood_date": "13/12/2025",
         "flood_source": "מראה עיניים",
         "name": "הקניון הלבן",
         "status": "מלא",
