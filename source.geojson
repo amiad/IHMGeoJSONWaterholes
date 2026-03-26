@@ -46,6 +46,27 @@
     {
       "type": "Feature",
       "properties": {
+        "stream": "מזין",
+        "flood_date": "15/12/2025",
+        "flood_source": "טלגרם",
+        "name": "",
+        "status": "",
+        "date": "",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.434801,
+          31.682737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stream": "ערוגות",
         "flood_date": "02/01/2026",
         "flood_source": "מראה עיניים",
@@ -614,8 +635,8 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "26/03/2026",
+        "flood_source": "עיניים",
         "name": "גבי קניון צין",
         "status": "",
         "date": "",
@@ -635,8 +656,8 @@
       "type": "Feature",
       "properties": {
         "stream": "",
-        "flood_date": "",
-        "flood_source": "",
+        "flood_date": "26/03/2026",
+        "flood_source": "עיניים",
         "name": "גבי צין",
         "status": "",
         "date": "",
