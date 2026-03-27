@@ -1134,6 +1134,27 @@
           29.9152775
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stream": "עתק",
+        "flood_date": "26/03/2026",
+        "flood_source": "מראה עיניים",
+        "name": "גבי עתק",
+        "status": "",
+        "date": "26/03/2026",
+        "source": "",
+        "source2": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9818,
+          29.8058
+        ]
+      }
     }
   ]
 }
