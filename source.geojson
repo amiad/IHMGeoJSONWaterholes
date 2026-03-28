@@ -764,9 +764,9 @@
         "flood_date": "",
         "flood_source": "",
         "name": "גב חולית",
-        "status": "",
-        "date": "",
-        "source": "",
+        "status": "מלא חלקית",
+        "date": "28/03/2026",
+        "source": "מראה עיניים",
         "source2": "",
         "notes": ""
       },
@@ -1132,27 +1132,6 @@
         "coordinates": [
           34.9719467,
           29.9152775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stream": "עתק",
-        "flood_date": "26/03/2026",
-        "flood_source": "מראה עיניים",
-        "name": "גבי עתק",
-        "status": "",
-        "date": "26/03/2026",
-        "source": "",
-        "source2": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.9818,
-          29.8058
         ]
       }
     }
