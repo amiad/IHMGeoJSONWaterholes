@@ -89,8 +89,8 @@
       "type": "Feature",
       "properties": {
         "stream": "אשלים",
-        "flood_date": "14/11/2025",
-        "flood_source": "",
+        "flood_date": "19/03/2026",
+        "flood_source": "14/11/2025",
         "name": "גבי אשלים",
         "status": "מלאים",
         "date": "17/11/2025",
