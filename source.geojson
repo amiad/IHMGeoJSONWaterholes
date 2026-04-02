@@ -362,7 +362,7 @@
       "type": "Feature",
       "properties": {
         "stream": "ימין",
-        "flood_date": "26/03/2026",
+        "flood_date": "02/04/2026",
         "flood_source": "מראה עיניים",
         "name": "גבי ימין",
         "status": "מלא",
@@ -488,7 +488,7 @@
       "type": "Feature",
       "properties": {
         "stream": "חתירה",
-        "flood_date": "26/03/2026",
+        "flood_date": "02/04/2026",
         "flood_source": "מראה עיניים",
         "name": "עין ירקעם",
         "status": "מלא",
