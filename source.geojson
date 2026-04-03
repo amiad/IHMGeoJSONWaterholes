@@ -257,11 +257,11 @@
       "type": "Feature",
       "properties": {
         "stream": "פרס",
-        "flood_date": "06/12/2025",
+        "flood_date": "26/03/2026",
         "flood_source": "וואטסאפ",
         "name": "גבי פרס",
-        "status": "חצי מלא- גובה פופיק בערך",
-        "date": "08/01/2026",
+        "status": "מלא, פרס עליון ותחתון",
+        "date": "29/03/2026",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
