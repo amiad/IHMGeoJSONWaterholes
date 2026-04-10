@@ -887,11 +887,11 @@
       "type": "Feature",
       "properties": {
         "stream": "חדב",
-        "flood_date": "06/12/2025",
+        "flood_date": "09/04/2026",
         "flood_source": "מראה עיניים",
         "name": "גב חדב",
-        "status": "מלא",
-        "date": "",
+        "status": "ריק",
+        "date": "09/04/2026",
         "source": "",
         "source2": "",
         "notes": ""
