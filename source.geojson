@@ -408,7 +408,7 @@
         "flood_source": "",
         "name": "גב זרחן",
         "status": "מלא מים ",
-        "date": "18/03/2026",
+        "date": "18/04/2026",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -429,7 +429,7 @@
         "flood_source": "",
         "name": "עין אום תינה",
         "status": "מלא",
-        "date": "18/12/2025",
+        "date": "18/04/2025",
         "source": "מראה עיניים",
         "source2": "",
         "notes": ""
@@ -617,8 +617,8 @@
         "flood_date": "26/03/2026",
         "flood_source": "עיניים",
         "name": "הג'קוזי של הצין",
-        "status": "",
-        "date": "25/11/2025",
+        "status": "ריק",
+        "date": "18/04/2026",
         "source": "",
         "source2": "",
         "notes": ""
