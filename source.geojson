@@ -1013,12 +1013,12 @@
       "type": "Feature",
       "properties": {
         "stream": "שגיא",
-        "flood_date": "22/05/2026",
+        "flood_date": "",
         "flood_source": "מראה עיניים",
         "name": "הקניון הלבן",
         "status": "חלקי ביותר עם בוץ רב. מראה לא מזמין",
         "date": "22/05/2026",
-        "source": "",
+        "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
       },
@@ -1097,11 +1097,11 @@
       "type": "Feature",
       "properties": {
         "stream": "צניפים",
-        "flood_date": "22/05/2026",
+        "flood_date": "",
         "flood_source": "מראה עיניים",
         "name": "גב צניפים",
         "status": "ריק כמעט לגמרי, שלולית מעופשת",
-        "date": "13/12/2025",
+        "date": "22/05/2026",
         "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
