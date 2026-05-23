@@ -953,9 +953,9 @@
         "flood_date": "06/12/2025",
         "flood_source": "https://www.facebook.com/photo?fbid=2718035918543080&set=a.107921142887917",
         "name": "גבי חיון",
-        "status": "מלא חלקית",
-        "date": "13/12/2025",
-        "source": "",
+        "status": "יבשים",
+        "date": "22/05/2026",
+        "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
       },
@@ -1013,11 +1013,11 @@
       "type": "Feature",
       "properties": {
         "stream": "שגיא",
-        "flood_date": "13/12/2025",
+        "flood_date": "22/05/2026",
         "flood_source": "מראה עיניים",
         "name": "הקניון הלבן",
-        "status": "מלא",
-        "date": "13/12/2025",
+        "status": "חלקי ביותר עם בוץ רב. מראה לא מזמין",
+        "date": "22/05/2026",
         "source": "",
         "source2": "",
         "notes": ""
@@ -1097,12 +1097,12 @@
       "type": "Feature",
       "properties": {
         "stream": "צניפים",
-        "flood_date": "02/04/2026",
+        "flood_date": "22/05/2026",
         "flood_source": "מראה עיניים",
         "name": "גב צניפים",
-        "status": "מלא",
+        "status": "ריק כמעט לגמרי, שלולית מעופשת",
         "date": "13/12/2025",
-        "source": "",
+        "source": "מראה עיניים ",
         "source2": "",
         "notes": ""
       },
